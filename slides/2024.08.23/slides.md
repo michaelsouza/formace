@@ -39,6 +39,13 @@ style: |
         right: 7%;
         left: auto;
     }
+    .content-subtitle {
+        font-size: 32pt;
+        color: #38761d;
+        position: absolute;
+        top: 30%;
+        left: 6%;
+    }
 
     .content-paragraph {
         font-size: 28pt;
@@ -53,6 +60,9 @@ style: |
     }
     .content-paragraph.tiny {
         max-width: 40%;
+    }
+    .content-paragraph.teeny {
+        max-width: 30%;
     }
     .content-paragraph.right {
         right: 6%;
@@ -182,6 +192,119 @@ style: |
     Language Models are Few-Shot Learners [Brown et al., 2020]
   </a>
 </div>
+
+---
+
+![bg](images/template-content.png)
+
+<div class="content-title">PNL: Tradução</div>
+
+<img src="images/QA.png" style="position: absolute; top: 18%; right: 0%; height: 70%;">
+
+
+<div class="footnote">
+  <a href="https://splab.sdu.edu.cn/GPT3.pdf" target="_blank" style="color: #4b616b; text-decoration: none;">
+    Language Models are Few-Shot Learners [Brown et al., 2020]
+  </a>
+</div>
+
+---
+
+![bg](images/template-content.png)
+
+<div class="content-title">PNL: Tradução</div>
+
+<img src="images/translation-1.png" style="position: absolute; top: 36%; right: 8%; width: 80%;">
+
+<div class="footnote">
+  <a href="https://splab.sdu.edu.cn/GPT3.pdf" target="_blank" style="color: #4b616b; text-decoration: none;">
+    Language Models are Few-Shot Learners [Brown et al., 2020]
+  </a>
+</div>
+
+---
+
+![bg](images/template-content.png)
+
+<div class="content-title">PNL: Tradução</div>
+
+<img src="images/translation-2.png" style="position: absolute; top: 18%; right: 0%; height: 70%;">
+
+<div class="footnote">
+  <a href="https://splab.sdu.edu.cn/GPT3.pdf" target="_blank" style="color: #4b616b; text-decoration: none;">
+    Language Models are Few-Shot Learners [Brown et al., 2020]
+  </a>
+</div>
+
+---
+
+![bg](images/template-content.png)
+
+<img src="images/next-word.png" style="position: absolute; top: 18%; left: 10%; height: 70%;">
+
+<div class="content-title right" style="right:15%">A próxima <br> palavra é?</div>
+
+<div class="content-paragraph teeny right" style="top:50%">
+    <p>O problema de determinar a próxima palavra é um problema de trajetória.</p>
+</div>
+
+<div class="footnote">
+  <a href="https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/" target="_blank" style="color: #4b616b; text-decoration: none;">
+        What Is ChatGPT Doing … and Why Does It Work? [Stephen Wolfram, 2023]
+  </a>
+</div>
+
+---
+
+![bg](images/template-content.png)
+
+<img src="images/neural-nets.png" style="position: absolute; top: 18%; left: 10%; height: 70%;">
+
+<div class="content-title right" style="right:17.5%">Redes Neurais</div>
+
+<div class="content-paragraph tiny right">
+    <p>Existem diferentes (forma e tamanho) arquiteturas de redes neurais.</p>
+    <p>Cada uma é mais adequada para um tipo de problema (regressão, classificação, etc).</p>
+</div>
+
+<div class="footnote">
+  <a href="https://www.asimovinstitute.org/neural-network-zoo/" target="_blank" style="color: #4b616b; text-decoration: none;">
+        The Neural Network Zoo [Fjodor Van Veen, 2016]
+  </a>
+</div>
+
+---
+
+![bg](images/template-content.png)
+
+<img src="images/einstein-godel.png" style="position: absolute; top: 30%; right: 1%; height: 50%;">
+
+<div class="content-title">Palavras vs. Números</div>
+
+<div class="content-paragraph" style="max-width: 40%;">
+    <p>Redes neurais lidam com números, não com palavras.</p>
+    <p>Desejamos uma representação que seja</p>
+    <p><strong><em>útil = semântica + aritmética</em></strong></p>
+</div>
+
+<div class="footnote">
+  <a href="https://www.asimovinstitute.org/neural-network-zoo/" target="_blank" style="color: #4b616b; text-decoration: none;">
+        Über formal unentscheidbare Sätze der Principia Mathematica und verwandter .. [Kurt Gödel, 1931]
+  </a>
+</div>
+
+---
+
+![bg](images/template-content.png)
+
+<img src="images/word-embedding.png" style="position: absolute; top: 20%; left: 5%; height: 70%;">
+
+<div class="content-title right">Word Embeddings</div>
+
+<div class="footnote">
+  <a href="https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf" target="_blank" style="color: #4b616b; text-decoration: none;">
+        A Neural Probabilistic Language Model [Bengio et al., 2003]
+  </a>
 
 ---
 
