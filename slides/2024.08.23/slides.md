@@ -77,7 +77,7 @@ style: |
         bottom: 5%;
         right: left%;
     }
-    
+
 ---
 
 ![bg](images/template-cover.png)
@@ -305,6 +305,89 @@ style: |
   <a href="https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf" target="_blank" style="color: #4b616b; text-decoration: none;">
         A Neural Probabilistic Language Model [Bengio et al., 2003]
   </a>
+
+---
+
+![bg](images/template-content.png)
+
+<img src="images/llm-tree.png" style="position: absolute; top: 20%; left: 5%; height: 70%;">
+
+<div class="content-title right">Explosão de Modelos de Linguagem</div>
+
+<div class="footnote">
+  <a href="https://arxiv.org/pdf/2304.13712" target="_blank" style="color: #4b616b; text-decoration: none;">
+    Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond [Yang et. al, 2023]
+  </a>
+</div>
+
+---
+
+<img src="images/computer-computing-power.jpg" style="position: absolute; top: 20%; left: 5%; height: 70%;">
+
+---
+
+<img src="images/computer-memory-prices.png" style="position: absolute; top: 20%; left: 5%; height: 70%;">
+
+---
+
+![bg](images/template-content.png)
+
+<img src="images/llm-architecture.png" style="position: absolute; top: 20%; left: 5%; height: 70%;">
+<div class="content-title right">Arquitetura de um LLM</div>
+<div class="content-subtitle right">Attention is all you need</div>
+<div class="content-paragraph small right">
+    <ul>
+        <li>Camadas de atenção</li>
+        <li>Camadas de feedforward</li>
+        <li>Camadas de normalização</li>
+    </ul>
+</div>
+
+<div class="footnote">
+  <a href="https://arxiv.org/pdf/1706.03762" target="_blank" style="color: #4b616b; text-decoration: none;">
+    Attention is All You Need [Vaswani et al., 2017]
+  </a>
+</div>
+
+---
+
+![bg](images/template-content.png)
+
+<div class="content-title">Habilidades Emergentes</div>
+
+<src img="images/emergent-abilities.png" style="position: absolute; top: 20%; right: 5%; height: 70%;">
+
+<div class="content-paragraph">
+    Uma habilidade emergente se não está presente em um modelo menor, mas aparece em um modelo maior.
+</div>
+
+<div class="footnote">
+  <a href="https://arxiv.org/pdf/2206.07682" target="_blank" style="color: #4b616b; text-decoration: none;">
+    Emergent Abilities in Large Language Models [Wei et. al, 2022]
+  </a>
+</div>
+
+---
+
+![bg](images/template-content.png)
+
+<div class="content-title">Um mundo pixelado</div>
+<div class="content-subtitle">Os riscos da adoção de IA na educação</div> 
+
+<div class="content-paragraph">
+    <ul>
+        <li>Redução do pensamento crítico</li>
+        <li>Dependência tecnológica</li> 
+        <li>Imprecisão e viés</li>
+        <li>Impactos sociais e tecnológicos</li>
+    </ul>
+</div>
+
+---
+
+![bg](images/template-content.png)
+
+<div class="content-title">A era da IA</div>
 
 ---
 
