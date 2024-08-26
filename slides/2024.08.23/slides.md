@@ -74,7 +74,7 @@ style: |
         font-style: italic;
         color: #4b616b;
         position: absolute;
-        bottom: 5%;
+        bottom: 30px;
         right: left%;
     }
 
@@ -89,6 +89,8 @@ style: |
 ---
 
 ![bg](images/template-content.png)
+
+<image src="images/bill-gates.png" style="position: absolute; bottom: 10%; right: 0%; height: 40%;">
 
 <div class="content-title">Da Curiosidade à Necessidade</div>
 <div class="content-paragraph small">“IA é o avanço tecnológico mais significativo desde a interface gráfica. Assim como o microprocessador e a Internet, ela transformará a maneira como trabalhamos, aprendemos, viajamos e nos comunicamos."</div>
@@ -124,12 +126,12 @@ style: |
 
 ![bg](images/template-content.png)
 
-<div class="content-title">Aprimoramento vs Transformação</div>
+<div class="content-title">Melhoria vs Transformação</div>
 
 <div class="content-paragraph">
     <ul>
-        <li> Enhancement makes existing practices more efficient without fundamentally them. Technology is a tool that assist in delivering the same content more effectively.</li>
-        <li>Transformation happens when a new technology not only assists with existing tasks but also changes the nature of those tasks or introduces entirely new educational methods.
+        <li> A <strong><em>melhoria</em></strong> torna as práticas existentes mais eficientes sem alterá-las fundamentalmente. A tecnologia é uma ferramenta que ajuda a entregar o mesmo conteúdo de forma mais eficaz.</li>
+        <li>A <strong><em>transformação</em></strong> ocorre quando uma nova tecnologia não apenas auxilia nas tarefas existentes, mas também muda a natureza dessas tarefas.
     </ul>
 </div>
 
@@ -165,10 +167,79 @@ style: |
 
 <div class="content-paragraph tiny right" style="right:0%">
     <ul>
-        <li><em>Aumento de Salários em Setores de Baixa Produtividade</em></li>
-        <li><em>Custos Crescentes Sem Ganhos de Produtividade</em></li>
-        <li><em>Impacto nos Serviços Essenciais</em></li>
+        <li><em>Custos crescentes sem ganhos de produtividade</em></li>
+        <li><em>Impacto na oferta de serviços essenciais</em></li>
     </ul>
+</div>
+
+---
+
+![bg](images/template-content.png)
+
+<div class="content-title">IA na Educação</div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IvXZCocyU_M?si=6cdc_fGDGVXgZcL6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+![bg](images/template-content.png)
+
+<image src="images/khanmigo.png" style="position: absolute; top: 0%; left: 0%; height: 100%;">
+
+<div class="content-paragraph small right">
+ "Com o Khanmigo, os educadores podem acessar (um banco de dados de) problemas recomendados para os alunos, analisar tendências da turma e simplificar tarefas administrativas, economizando tempo valioso e permitindo que a atenção seja focada nas necessidades dos alunos."</div>
+
+<div class="footnote" style="left: 0%;">
+  <a href="https://www.nps.k12.nj.us/press-releases/bill-gates-visits-first-avenue-school-commends-innovative-use-of-technology/" target="_blank" style="color: #4b616b; text-decoration: none;">
+    Bill Gates Visits First Avenue School: Commends Innovative Use of Technology [NPS, 2024]
+  </a>
+</div>
+
+---
+
+![bg](images/template-content.png)
+
+<image src="images/logo-first-avenue-school.svg" style="position: absolute; top: 30%; right: 5%; height: 50%;;">
+
+<div class="content-title">First Avenue School</div>
+
+<div class="content-paragraph small">
+    <ul>
+        <li>1.081 alunos</li>
+        <li>98% minorias, 86% econ. desfavorecidos</li>
+        <li>Relação aluno-professor: 15:1</li>
+        <li>Atende do PK (4 anos) ao 8º ano</li>
+        <li>Proficiência <br> 21% matemática, 36% leitura</li>        
+    </ul>
+</div>
+
+<div class="footnote">
+  <a href="https://www.nps.k12.nj.us/01A/news/first-avenue-school-makes-u-s-news-rankings-for-2024/" target="_blank" style="color: #4b616b; text-decoration: none;">
+    First Avenue School Makes U.S. News Rankings for 2024 [NPS, 2024]
+  </a>
+</div>
+
+---
+
+![bg](images/template-content.png)
+
+<image src="images/ai-classroom.png" style="position: absolute; top: 30%; right: 5%; height: 50%; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+
+<div class="content-title">Limitações</div>
+
+<div class="content-paragraph small">
+    <ul>
+        <li>Erros na Resolução de Problemas</li>
+        <li>Ajuda excessiva durante as avaliações</li>
+        <li>Alinhamento com as práticas educacionais</li>
+        <li>Mais treinamento para professores</li>
+    </ul>
+</div>
+
+<div class="footnote">
+  <a href="https://mosaic.nj.com/news/2024/05/newark-public-schools-among-1st-in-us-to-pilot-new-ai-tutor.html" target="_blank" style="color: #4b616b; text-decoration: none;">
+    Newark Public Schools Among 1st in US to Pilot New AI Tutor [Mosaic, 2024]
+  </a>
 </div>
 
 ---
@@ -328,6 +399,23 @@ style: |
 
 <img src="images/computer-memory-prices.png" style="position: absolute; top: 20%; left: 5%; height: 70%;">
 
+<img src="images/data-growth.png" style="position: absolute; top: 20%; right: 5%; height: 70%;">
+
+<div class="footnote">
+  <a href="https://www.statista.com/statistics/871513/worldwide-data-created/" target="_blank" style="color: #4b616b; text-decoration: none;">
+    Worldwide data created 2010-2025 [Statista, 2023]
+  </a>
+</div>
+
+<div class="footnote">
+  <a href="https://www.statista.com/statistics/871513/worldwide-data-created/" target="_blank" style="color: #4b616b; text-decoration: none;">
+    Worldwide data created 2010-2025 [Statista, 2023]
+  </a>
+</div>
+
+---
+
+
 ---
 
 ![bg](images/template-content.png)
@@ -392,5 +480,3 @@ style: |
 ---
 
 ![bg](images/template-closing.png)
-
----
