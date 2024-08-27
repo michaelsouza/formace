@@ -84,7 +84,7 @@ style: |
 
     img.shadow {
         border-radius: 15px;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        box-shadow: 8px 12px 8px rgba(0, 0, 0, 0.2);
     }
 ---
 
@@ -99,6 +99,10 @@ style: |
 ![bg](images/template-content.png)
 
 <image src="images/bill-gates.png" style="position: absolute; bottom: 10%; right: 0%; height: 40%;">
+<div class="content-paragraph" style="top:80%; left:65%; font-size:x-large">
+    Bill Gates<br>
+    Microsoft
+</div>
 
 <div class="content-title">Da Curiosidade à Necessidade</div>
 <div class="content-paragraph small">“IA é o avanço tecnológico mais significativo desde a interface gráfica. Assim como o microprocessador e a Internet, ela transformará a maneira como trabalhamos, aprendemos, viajamos e nos comunicamos."</div>
@@ -186,17 +190,17 @@ style: |
 
 <div class="content-subtitle" style="top:20%">IA na Educação (GPT4-o, Sal & Imran Khan)</div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IvXZCocyU_M?si=6cdc_fGDGVXgZcL6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="680" height="420" src="https://www.youtube.com/embed/IvXZCocyU_M?si=6cdc_fGDGVXgZcL6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 30%; left: 25%;"></iframe>
 
 ---
 
 ![bg](images/template-content.png)
 
-<image src="images/khanmigo.png" style="position: absolute; top: 0%; left: 0%; height: 100%;">
+<image class="shadow" src="images/khanmigo.png" style="position: absolute; top: 15%; left: 2%; height: 70%;">
 
 <div class="content-paragraph small right" style="top: 20%; right: 5%;">
  "Com o Khanmigo, os educadores podem acessar (um banco de dados de) problemas recomendados para os alunos, analisar tendências da turma e simplificar tarefas administrativas, economizando tempo valioso e permitindo que a atenção seja focada nas necessidades dos alunos."<br>
- <strong><em>Sal Khan</em></strong></div>
+ <strong><em>Sal Khan (CEO Khan Academy)</em></strong></div>
 
 <div class="footnote" style="left: 0%;">
   <a href="https://www.nps.k12.nj.us/press-releases/bill-gates-visits-first-avenue-school-commends-innovative-use-of-technology/" target="_blank" style="color: #4b616b; text-decoration: none;">
@@ -238,9 +242,9 @@ style: |
 
 <div class="content-paragraph small">
     <ul>
-        <li>Erros na Resolução de Problemas</li>
+        <li>Erros na resolução de problemas</li>
         <li>Ajuda excessiva durante as avaliações</li>
-        <li>Alinhamento com as práticas educacionais</li>
+        <li>Alinhamento pedagógico</li>
         <li>Mais treinamento para professores</li>
     </ul>
 </div>
@@ -340,7 +344,7 @@ style: |
 
 ![bg](images/template-content.png)
 
-<img src="images/why-now.png" style="position: absolute; top: 10%; left: 10%; height: 80%;">
+<img src="images/why-now.png" style="position: absolute; top: 15%; left: 12%; height: 70%;">
 
 <div class="content-title right" style="right:30%">Por que agora?</div>
 
@@ -389,12 +393,15 @@ style: |
 ![bg](images/template-content.png)
 
 <img src="images/transformers.png" style="position: absolute; top: 10%; left: 5%; height: 80%;">
-<div class="content-title right" style="right:11%;">Attention is all you need</div>
-<div class="content-paragraph small right">
+
+<img class="shadow" src="images/top-articles.png" style="position: absolute; bottom: 12%; right: 5%; width: 50%;">
+
+<div class="content-title right" style="right:5%; top:18%">Attention is all you need</div>
+<div class="content-paragraph small right" style="top:30%;">
   - Rede neural que aprende a atenção<br>
-  - Massivamente paralela <br>
-  - Arquitetura de codificador-decodificador<br>
+  - Massivamente paralela
 </div>
+
 
 <div class="footnote">
   <a href="https://arxiv.org/pdf/1706.03762" target="_blank" style="color: #4b616b; text-decoration: none;">
@@ -430,12 +437,27 @@ style: |
 
 <img src="images/embedding-prices.png" style="position: absolute; top: 20%; left: 5%; height: 70%;">s
 
-<div class="content-title right">Word Embeddings</div>
+<div class="content-subtitle right">Word Embeddings</div>
 
 <div class="footnote">
   <a href="https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf" target="_blank" style="color: #4b616b; text-decoration: none;">
         A Neural Probabilistic Language Model [Bengio et al., 2003]
   </a>
+
+---
+
+![bg](images/template-content-small.png)
+
+<img class="shadow" src="images/tokens.png" style="position: absolute; top: 10%; right: 2%; height: 75%;">
+
+
+<div class="content-subtitle">Word Embeddings</div>
+
+<div class="footnote">
+  <a href="https://huggingface.co/spaces/Xenova/the-tokenizer-playground" target="_blank" style="color: #4b616b; text-decoration: none;">
+    The Tokenizer Playground [Hugging Face, 2024]        
+  </a>
+</div>
 
 ---
 
@@ -467,7 +489,7 @@ style: |
 
 <img src="images/data-usage.png" style="position: absolute; top: 40%; width: 90%;">
 
-<div class="content-title">Explosão de Dados</div>
+<div class="content-subtitle" style="top:20%">Explosão de Dados</div>
 
 <div class="footnote">
   <a href="https://financesonline.com/how-much-data-is-created-every-day/" target="_blank" style="color: #4b616b; text-decoration: none;">
@@ -531,7 +553,6 @@ style: |
 
 ---
 
-
 ![bg](images/template-content.png)
 
 <img class="shadow" src="images/mobile-lens.webp" style="position: absolute; top: 20%; left: 8%; height: 60%;">
@@ -544,6 +565,27 @@ style: |
   - Dependência tecnológica<br>
   - Imprecisão e viés<br>
   - Impactos sociais e tecnológicos<br>
+</div>
+
+---
+
+![bg](images/template-content.png)
+
+<img class="shadow" src="images/ai-legal.jpg" style="position: absolute; top: 20%; right: 8%; height: 60%;">
+
+<div class="content-title">Regulação Jurídica</div>
+
+<div class="content-paragraph" style="top:35%;">
+  - Qual é o limite de uso de uma obra?<br>
+  - Dados abertos e democratização<br>
+  - Modelos compensatórios<br>
+  - O que é a autoria?<br>
+</div>
+
+<div class="footnote" style="bottom: 10%;">
+  <a href="https://www.wipo.int/edocs/pubdocs/en/wipo_pub_1055.pdf" target="_blank" style="color: #4b616b; text-decoration: none;">
+    ChatGPT: A Case Study on Copyright Challenges for Generative Artificial Intelligence ... [Lucchi, 2023]
+  </a>
 </div>
 
 ---
