@@ -78,6 +78,10 @@ style: |
         right: left%;
     }
 
+    img.shadow {
+        border-radius: 15px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
 ---
 
 ![bg](images/template-cover.png)
@@ -145,7 +149,7 @@ style: |
 
 ![bg](images/template-content.png)
 
-<img src="images/common-core.png" style="position: absolute; top: 0%; left: 0%; height: 100%;">
+<img class="shadow" src="images/common-core.png" style="position: absolute; top: 3%; left: 1%; height: 90%;">
 
 <div class="content-title right">Universalizar vs. Pasteurizar</div>
 
@@ -268,7 +272,7 @@ style: |
 
 ![bg](images/template-content.png)
 
-<div class="content-title">PNL: Tradução</div>
+<div class="content-title">PNL: QA</div>
 
 <img src="images/QA.png" style="position: absolute; top: 18%; right: 0%; height: 70%;">
 
@@ -329,18 +333,65 @@ style: |
 
 ![bg](images/template-content.png)
 
+<img src="images/why-now.png" style="position: absolute; top: 10%; left: 10%; height: 80%;">
+
+<div class="content-title right" style="right:30%">Por que agora?</div>
+
+<div class="content-paragraph right" style="top:35%; right: 20%">
+    <p>- Algoritmos aprimorados</p>
+    <p>- Poder de computação acessível</p>    
+    <p>- Grandes quantidades de dados</p>    
+</div>
+
+---
+
+![bg](images/template-content.png)
+
 <img src="images/neural-nets.png" style="position: absolute; top: 18%; left: 10%; height: 70%;">
 
-<div class="content-title right" style="right:17.5%">Redes Neurais</div>
+<div class="content-title right" style="right:10%">Redes Neurais</div>
 
 <div class="content-paragraph tiny right">
-    <p>Existem diferentes (forma e tamanho) arquiteturas de redes neurais.</p>
+    <p>Existem diferentes arquiteturas (forma e tamanho) de redes neurais.</p>
     <p>Cada uma é mais adequada para um tipo de problema (regressão, classificação, etc).</p>
 </div>
 
 <div class="footnote">
   <a href="https://www.asimovinstitute.org/neural-network-zoo/" target="_blank" style="color: #4b616b; text-decoration: none;">
         The Neural Network Zoo [Fjodor Van Veen, 2016]
+  </a>
+</div>
+
+---
+
+![bg](images/template-content.png)
+
+<img src="images/perceptron.png" style="position: absolute; top: 18%; left: 10%; height: 70%;">
+
+<div class="content-title right" style="right:10%">Redes Neurais</div>
+
+
+<div class="footnote">
+  <a href="https://statquest.org/video-index/#:~:text=Neural%20Networks%2C%20Deep%20Learning%2C%20and%20AI" target="_blank" style="color: #4b616b; text-decoration: none;">
+        Neural Networks, Deep Learning, and AI [StatQuest with Josh Starmer, 2020]
+  </a>
+</div>
+
+---
+
+![bg](images/template-content.png)
+
+<img src="images/transformers.png" style="position: absolute; top: 10%; left: 5%; height: 80%;">
+<div class="content-title right" style="right:11%;">Attention is all you need</div>
+<div class="content-paragraph small right">
+  - Rede neural que aprende a atenção<br>
+  - Massivamente paralela <br>
+  - Arquitetura de codificador-decodificador<br>
+</div>
+
+<div class="footnote">
+  <a href="https://arxiv.org/pdf/1706.03762" target="_blank" style="color: #4b616b; text-decoration: none;">
+    Attention is All You Need [Vaswani et al., 2017]
   </a>
 </div>
 
@@ -368,7 +419,9 @@ style: |
 
 ![bg](images/template-content.png)
 
-<img src="images/word-embedding.png" style="position: absolute; top: 20%; left: 5%; height: 70%;">
+<img src="images/word-embedding.png" style="position: absolute; top: 39%; right: 10%; height: 50%;">
+
+<img src="images/embedding-prices.png" style="position: absolute; top: 20%; left: 5%; height: 70%;">s
 
 <div class="content-title right">Word Embeddings</div>
 
@@ -379,11 +432,52 @@ style: |
 
 ---
 
+<img src="images/historical-cost-of-computer-memory-and-storage.svg" style="position: absolute; left:15%; top: 5%; width: 70%;">
+
+<div class="footnote">
+  <a href="https://ourworldindata.org/moores-law" target="_blank" style="color: #4b616b; text-decoration: none;">
+    Moore's Law [Roser et. al, 2023]
+  </a>
+</div>
+
+---
+
+<img src="images/supercomputer-power-flops.svg" style="position: absolute; left:15%; top: 5%; width: 70%;">
+
+<div class="footnote">
+  <a href="https://ourworldindata.org/moores-law" target="_blank" style="color: #4b616b; text-decoration: none;">
+    Moore's Law [Roser et. al, 2023]
+  </a>
+</div>
+
+---
+
 ![bg](images/template-content.png)
 
-<img src="images/llm-tree.png" style="position: absolute; top: 20%; left: 5%; height: 70%;">
+<img src="images/data-usage.png" style="position: absolute; top: 40%; width: 90%;">
 
-<div class="content-title right">Explosão de Modelos de Linguagem</div>
+<div class="content-title">Explosão de Dados</div>
+
+<div class="footnote">
+  <a href="https://financesonline.com/how-much-data-is-created-every-day/" target="_blank" style="color: #4b616b; text-decoration: none;">
+    53 Important Statistics About How Much Data Is Created Every Day in 2024 [Finances Online, 2024]
+  </a>
+</div>
+
+---
+
+![bg](images/template-content.png)
+
+<img src="images/data-growth.png" style="position: absolute; top: 20%; right: 5%; height: 70%;">
+
+<div class="content-title">Explosão de Dados</div>
+
+---
+![bg](images/template-content.png)
+
+<img src="images/llm-tree.png" style="position: absolute; top: 15%; right: 5%; height: 75%;">
+
+<div class="content-title left">Explosão de <br>Modelos de<br>Linguagem</div>
 
 <div class="footnote">
   <a href="https://arxiv.org/pdf/2304.13712" target="_blank" style="color: #4b616b; text-decoration: none;">
@@ -393,51 +487,6 @@ style: |
 
 ---
 
-<img src="images/computer-computing-power.jpg" style="position: absolute; top: 20%; left: 5%; height: 70%;">
-
----
-
-<img src="images/computer-memory-prices.png" style="position: absolute; top: 20%; left: 5%; height: 70%;">
-
-<img src="images/data-growth.png" style="position: absolute; top: 20%; right: 5%; height: 70%;">
-
-<div class="footnote">
-  <a href="https://www.statista.com/statistics/871513/worldwide-data-created/" target="_blank" style="color: #4b616b; text-decoration: none;">
-    Worldwide data created 2010-2025 [Statista, 2023]
-  </a>
-</div>
-
-<div class="footnote">
-  <a href="https://www.statista.com/statistics/871513/worldwide-data-created/" target="_blank" style="color: #4b616b; text-decoration: none;">
-    Worldwide data created 2010-2025 [Statista, 2023]
-  </a>
-</div>
-
----
-
-
----
-
-![bg](images/template-content.png)
-
-<img src="images/llm-architecture.png" style="position: absolute; top: 20%; left: 5%; height: 70%;">
-<div class="content-title right">Arquitetura de um LLM</div>
-<div class="content-subtitle right">Attention is all you need</div>
-<div class="content-paragraph small right">
-    <ul>
-        <li>Camadas de atenção</li>
-        <li>Camadas de feedforward</li>
-        <li>Camadas de normalização</li>
-    </ul>
-</div>
-
-<div class="footnote">
-  <a href="https://arxiv.org/pdf/1706.03762" target="_blank" style="color: #4b616b; text-decoration: none;">
-    Attention is All You Need [Vaswani et al., 2017]
-  </a>
-</div>
-
----
 
 ![bg](images/template-content.png)
 
