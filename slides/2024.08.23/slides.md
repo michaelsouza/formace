@@ -46,6 +46,10 @@ style: |
         top: 30%;
         left: 6%;
     }
+    .content-subtitle.right {
+        right: 7%;
+        left: auto;
+    }
 
     .content-paragraph {
         font-size: 28pt;
@@ -180,7 +184,7 @@ style: |
 
 ![bg](images/template-content.png)
 
-<div class="content-title">IA na Educação</div>
+<div class="content-subtitle" style="top:20%">IA na Educação (GPT4-o, Sal & Imran Khan)</div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IvXZCocyU_M?si=6cdc_fGDGVXgZcL6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -190,8 +194,9 @@ style: |
 
 <image src="images/khanmigo.png" style="position: absolute; top: 0%; left: 0%; height: 100%;">
 
-<div class="content-paragraph small right">
- "Com o Khanmigo, os educadores podem acessar (um banco de dados de) problemas recomendados para os alunos, analisar tendências da turma e simplificar tarefas administrativas, economizando tempo valioso e permitindo que a atenção seja focada nas necessidades dos alunos."</div>
+<div class="content-paragraph small right" style="top: 20%; right: 5%;">
+ "Com o Khanmigo, os educadores podem acessar (um banco de dados de) problemas recomendados para os alunos, analisar tendências da turma e simplificar tarefas administrativas, economizando tempo valioso e permitindo que a atenção seja focada nas necessidades dos alunos."<br>
+ <strong><em>Sal Khan</em></strong></div>
 
 <div class="footnote" style="left: 0%;">
   <a href="https://www.nps.k12.nj.us/press-releases/bill-gates-visits-first-avenue-school-commends-innovative-use-of-technology/" target="_blank" style="color: #4b616b; text-decoration: none;">
@@ -251,6 +256,8 @@ style: |
 ![bg](images/template-content.png)
 
 <div class="content-title">PNL: Problema Fundamental</div>
+
+<image src="images/stem-cell.png" style="position: absolute; top: 20%; right: 5%; height: 50%;">
 
 <div class="content-paragraph">
     <ul>
@@ -432,6 +439,8 @@ style: |
 
 ---
 
+![bg](images/template-content-small.png)
+
 <img src="images/historical-cost-of-computer-memory-and-storage.svg" style="position: absolute; left:15%; top: 5%; width: 70%;">
 
 <div class="footnote">
@@ -441,6 +450,8 @@ style: |
 </div>
 
 ---
+
+![bg](images/template-content-small.png)
 
 <img src="images/supercomputer-power-flops.svg" style="position: absolute; left:15%; top: 5%; width: 70%;">
 
@@ -466,18 +477,25 @@ style: |
 
 ---
 
-![bg](images/template-content.png)
+![bg](images/template-content-small.png)
 
-<img src="images/data-growth.png" style="position: absolute; top: 20%; right: 5%; height: 70%;">
+<img src="images/data-growth.png" style="position: absolute; top: 10%; left: 40%; height: 80%;">
 
-<div class="content-title">Explosão de Dados</div>
+<div class="content-subtitle" style="top:10%;">Explosão de Dados</div>
+
+<div class="footnote">
+  <a href="https://www.statista.com/statistics/871513/worldwide-data-created/" target="_blank" style="color: #4b616b; text-decoration: none;">
+    Volume of data/information created, captured, copied, and consumed ... [Statista, 2024]
+  </a>
+</div>
+
 
 ---
 ![bg](images/template-content.png)
 
 <img src="images/llm-tree.png" style="position: absolute; top: 15%; right: 5%; height: 75%;">
 
-<div class="content-title left">Explosão de <br>Modelos de<br>Linguagem</div>
+<div class="content-subtitle left">Explosão de <br>Modelos de<br>Linguagem</div>
 
 <div class="footnote">
   <a href="https://arxiv.org/pdf/2304.13712" target="_blank" style="color: #4b616b; text-decoration: none;">
@@ -487,16 +505,11 @@ style: |
 
 ---
 
-
 ![bg](images/template-content.png)
 
-<div class="content-title">Habilidades Emergentes</div>
+<img src="images/emergent-abilities.png" style="position: absolute; top: 25%; left: 5%; height: 60%;">
 
-<src img="images/emergent-abilities.png" style="position: absolute; top: 20%; right: 5%; height: 70%;">
-
-<div class="content-paragraph">
-    Uma habilidade emergente se não está presente em um modelo menor, mas aparece em um modelo maior.
-</div>
+<div class="content-subtitle right" style="top:20%" >Habilidades Emergentes</div>
 
 <div class="footnote">
   <a href="https://arxiv.org/pdf/2206.07682" target="_blank" style="color: #4b616b; text-decoration: none;">
@@ -506,25 +519,32 @@ style: |
 
 ---
 
-![bg](images/template-content.png)
+![bg](images/template-content-small.png)
 
-<div class="content-title">Um mundo pixelado</div>
-<div class="content-subtitle">Os riscos da adoção de IA na educação</div> 
+<img class="shadow" src="images/llm-rank.png" style="position: absolute; top: 8%; left: 15%; height: 80%;">
 
-<div class="content-paragraph">
-    <ul>
-        <li>Redução do pensamento crítico</li>
-        <li>Dependência tecnológica</li> 
-        <li>Imprecisão e viés</li>
-        <li>Impactos sociais e tecnológicos</li>
-    </ul>
+<div class="footnote">
+  <a href="https://lmarena.ai/" target="_blank" style="color: #4b616b; text-decoration: none;">
+    LLM Arena # Leaderboard, 27/08/2024
+  </a>
 </div>
 
 ---
 
+
 ![bg](images/template-content.png)
 
-<div class="content-title">A era da IA</div>
+<img class="shadow" src="images/mobile-lens.webp" style="position: absolute; top: 20%; left: 8%; height: 60%;">
+
+<div class="content-title right">Um mundo pixelado</div>
+<div class="content-subtitle right">Os riscos da IA na educação</div> 
+
+<div class="content-paragraph right" style="top:40%;">
+  - Redução do pensamento crítico<br>
+  - Dependência tecnológica<br>
+  - Imprecisão e viés<br>
+  - Impactos sociais e tecnológicos<br>
+</div>
 
 ---
 
