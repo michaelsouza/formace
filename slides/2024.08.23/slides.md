@@ -117,21 +117,14 @@ style: |
 
 ![bg](images/template-content.png)
 
-<img src="images/img-conics.png" style="position: absolute; top: 20%; left: 5%; height: 400px;">
+<image class="shadow" src="images/time-to-100M.png" style="position: absolute; bottom: 15%; right: 10%; width: 75%;">
 
-<div class="content-title right">Educação: Conteúdo e Forma</div>
-
-<div class="content-paragraph small right">
-    <ul>
-        <li>Em 1825, o quadro negro foi adotado na universidade de Yale.</li>
-        <li>Em 1830, os alunos passaram a ser obrigados a reproduzir de memória partes dos livros nos quadros.</li>
-    </ul>
-</div>
+<div class="content-subtitle" style="position: absolute; top: 15%; right: 20%;">Tempo para alcançar 100 milhões de usuários</div>
 
 <div class="footnote">
-    <a href="https://www.cambridgemaths.org/blogs/degenerates/" target="_blank" style="color: #4b616b; text-decoration: none;">
-        Conic Sections Rebellion - Degenerates [Lucy Rycroft-Smith, 2018]
-    </a>
+<a href="https://www.mckinsey.com/featured-insights/artificial-intelligence/ai-adoption-advances-but-foundational-barriers-remain" target="_blank" style="color: #4b616b; text-decoration: none;">
+    Threads becomes fastest-ever app to surge past 150 MILLION ... [Daily Mail, 2023]
+  </a>
 </div>
 
 ---
@@ -151,6 +144,27 @@ style: |
   <a href="https://www.jstor.org/stable/1315198" target="_blank" style="color: #4b616b; text-decoration: none;">
     ... What the Success of Chalkboards Tells Us About the Future of Computers ... [Krause, 2000]
   </a>
+</div>
+
+---
+
+![bg](images/template-content.png)
+
+<img src="images/img-conics.png" style="position: absolute; top: 20%; left: 5%; height: 400px;">
+
+<div class="content-title right">Educação: Conteúdo e Forma</div>
+
+<div class="content-paragraph small right">
+    <ul>
+        <li>Em 1825, o quadro negro foi adotado na universidade de Yale.</li>
+        <li>Em 1830, os alunos passaram a ser obrigados a reproduzir de memória partes dos livros nos quadros.</li>
+    </ul>
+</div>
+
+<div class="footnote">
+    <a href="https://www.cambridgemaths.org/blogs/degenerates/" target="_blank" style="color: #4b616b; text-decoration: none;">
+        Conic Sections Rebellion - Degenerates [Lucy Rycroft-Smith, 2018]
+    </a>
 </div>
 
 ---
@@ -490,6 +504,7 @@ style: |
 <img src="images/data-usage.png" style="position: absolute; top: 40%; width: 90%;">
 
 <div class="content-subtitle" style="top:20%">Explosão de Dados</div>
+<div class="content-subtitle" style="color: #20476f;"><strong><em>Dados por minuto</em></strong></div>
 
 <div class="footnote">
   <a href="https://financesonline.com/how-much-data-is-created-every-day/" target="_blank" style="color: #4b616b; text-decoration: none;">
@@ -499,9 +514,9 @@ style: |
 
 ---
 
-![bg](images/template-content-small.png)
+![bg](images/template-content.png)
 
-<img src="images/data-growth.png" style="position: absolute; top: 10%; left: 40%; height: 80%;">
+<img src="images/data-growth.png" style="position: absolute; top: 20%; left: 20%; height: 70%;">
 
 <div class="content-subtitle" style="top:10%;">Explosão de Dados</div>
 
