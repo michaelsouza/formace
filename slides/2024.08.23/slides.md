@@ -1,7 +1,7 @@
 ---
 marp: true
 style: |
-    @import url('/home/michael/github/formace/slides/2024.08.23/formace.css')
+    @import url('formace.css')
 ---
 
 ![bg](images/template-cover.png)
@@ -57,13 +57,11 @@ style: |
   </a>  
 </div>
 
-
 ---
 
-![bg](images/template-content-small-2.png)
+![bg](images/template-content-small.png)
 
 <image class="shadow" src="images/deepmind-muzero-upscaling.png" style="position: absolute; bottom: 15%; left: 20%; width: 45%;">
-
 
 <image src="images/deepmind-alphafold.png" style="position: absolute; top: 8%; right: 10%; width: 16%;">
 <div style="position: absolute; top: 39%; right: 13%;">
@@ -94,7 +92,7 @@ style: |
 
 <div class="footnote">
   <a href="https://www.nature.com/articles/d41586-020-03348-4" target="_blank" style="color: #4b616b; text-decoration: none;">
-    ‘It will change everything’: DeepMind’s AI makes gigantic leap in solving protein ... [Callaway, 2020]
+    ‘It will change everything’: DeepMind’s AI makes gigantic leap in solving ... [Callaway, 2020]
   </a>  
 </div>
 
@@ -116,11 +114,10 @@ style: |
 <p>Jul, 2022</p>
 </div>
 
-
 <div class="footnote">
-  <a href="https://deepmind.google/discover/blog/muzero-mastering-go-chess-shogi-and-atari-without-rules/" target="_blank" style="color: #4b616b; text-decoration: none;">
-    MuZero: Mastering Go, chess, shogi and Atari without rules [DeepMind, 2020]
-  </a>  
+  <a href="https://www.midjourney.com/home" target="_blank" style="color: #4b616b; text-decoration: none;">
+    [Midjourney, 2022-2023]
+  </a>
 </div>
 
 ---
@@ -145,6 +142,12 @@ style: |
 <p>Nov, 2022</p>
 </div>
 
+<div class="footnote">
+  <a href="https://www.midjourney.com/home" target="_blank" style="color: #4b616b; text-decoration: none;">
+    [Midjourney, 2022-2023]
+  </a>
+</div>
+
 ---
 
 <image src="images/template-content-small.png" style="position: absolute; top: 0%; left: 0%; width: 100%;">
@@ -163,18 +166,34 @@ style: |
 <p>Mai, 2023</p>
 </div>
 
+<div class="footnote">
+  <a href="https://www.midjourney.com/home" target="_blank" style="color: #4b616b; text-decoration: none;">
+    [Midjourney, 2022-2023]
+  </a>
+</div>
+
 ---
 
-<iframe width="680" height="420" src="images/woman-video-reversed.mp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 30%; left: 25%;"></iframe>
+<image src="images/template-content-small.png" style="position: absolute; top: 0%; left: 0%; width: 100%;">
+
+<div class="content-title">2024</div>
+
+<iframe width="680" height="420" src="images/woman-video-reversed.mp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 25%; left: 25%; border: 2px solid black;"></iframe>
+
+<div class="footnote">
+  <a href="https://www.midjourney.com/home" target="_blank" style="color: #4b616b; text-decoration: none;">
+    [Runway, 2024]
+  </a>
+</div>
 
 ---
 
 
 ![bg](images/template-content.png)
 
-<image class="shadow" src="images/time-to-100M.jpeg" style="position: absolute; bottom: 15%; right: 10%; width: 60%;">
+<image class="shadow" src="images/time-to-100M.jpeg" style="position: absolute; bottom: 15%; right: 17%; width: 60%;">
 
-<div class="content-subtitle" style="position: absolute; top: 15%; right: 20%;">Tempo para alcançar 100 milhões de usuários</div>
+<div class="content-subtitle" style="position: absolute; top: 15%; right: %;">Tempo para alcançar 100 milhões de usuários</div>
 
 <div class="footnote">
 <a href="https://www.mckinsey.com/featured-insights/artificial-intelligence/ai-adoption-advances-but-foundational-barriers-remain" target="_blank" style="color: #4b616b; text-decoration: none;">
@@ -241,6 +260,7 @@ style: |
 
 ---
 
+![bg](images/template-content-small.png)
 
 <img src="images/baumol-effect.jpg" style="position: absolute; top: 5%; left: 5%; height: 90%;">
 
@@ -253,13 +273,26 @@ style: |
     </ul>
 </div>
 
+<div class="footnote" style="position: absolute; bottom: 5%; right: 20px;">
+  <a href="https://www.vox.com/new-money/2017/5/4/15547364/baumol-cost-disease-explained" target="_blank" style="color: #4b616b; text-decoration: none;">
+    William Baumol, ... has died. [Lee, 2017]
+  </a>
+</div>
+
 ---
 
 ![bg](images/template-content.png)
 
 <div class="content-subtitle" style="top:20%">IA na Educação (GPT4-o, Sal & Imran Khan)</div>
 
-<iframe width="680" height="420" src="https://www.youtube.com/embed/IvXZCocyU_M?si=6cdc_fGDGVXgZcL6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 30%; left: 25%;"></iframe>
+
+<iframe width="680" height="420" src="https://www.youtube.com/embed/IvXZCocyU_M?si=r_0XSRTSjhSk6Lp0&amp;start=31" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen cc_load_policy="1" cc_lang_pref="pt" style="position: absolute; top: 30%; left: 28%; border: 2px solid black;"></iframe>
+
+<div class="footnote">
+  <a href="https://www.youtube.com/watch?v=IvXZCocyU_M" target="_blank" style="color: #4b616b; text-decoration: none;">
+    [Youtube, 2024]
+  </a>
+</div>
 
 ---
 
@@ -271,7 +304,7 @@ style: |
  "Com o Khanmigo, os educadores podem acessar (um banco de dados de) problemas recomendados para os alunos, analisar tendências da turma e simplificar tarefas administrativas, economizando tempo valioso e permitindo que a atenção seja focada nas necessidades dos alunos."<br>
  <strong><em>Sal Khan (CEO Khan Academy)</em></strong></div>
 
-<div class="footnote" style="left: 0%;">
+<div class="footnote">
   <a href="https://www.nps.k12.nj.us/press-releases/bill-gates-visits-first-avenue-school-commends-innovative-use-of-technology/" target="_blank" style="color: #4b616b; text-decoration: none;">
     Bill Gates Visits First Avenue School: Commends Innovative Use of Technology [NPS, 2024]
   </a>
@@ -415,12 +448,86 @@ style: |
 
 <img src="images/why-now.png" style="position: absolute; top: 15%; left: 12%; height: 70%;">
 
-<div class="content-title right" style="right:30%">Por que agora?</div>
+<div class="content-title right" style="right:20%">Por que agora?</div>
 
-<div class="content-paragraph right" style="top:35%; right: 20%">
+<div class="content-paragraph right" style="top:35%; right: 8%">
     <p>- Algoritmos aprimorados</p>
     <p>- Poder de computação acessível</p>    
     <p>- Grandes quantidades de dados</p>    
+</div>
+
+---
+
+![bg](images/template-content-small.png)
+
+<img src="images/historical-cost-of-computer-memory-and-storage.svg" style="position: absolute; left:15%; top: 5%; width: 70%;">
+
+<div class="footnote">
+  <a href="https://ourworldindata.org/moores-law" target="_blank" style="color: #4b616b; text-decoration: none;">
+    Moore's Law [Roser et. al, 2023]
+  </a>
+</div>
+
+---
+
+![bg](images/template-content-small.png)
+
+<img src="images/supercomputer-power-flops.svg" style="position: absolute; left:15%; top: 5%; width: 70%;">
+
+<div class="footnote">
+  <a href="https://ourworldindata.org/moores-law" target="_blank" style="color: #4b616b; text-decoration: none;">
+    Moore's Law [Roser et. al, 2023]
+  </a>
+</div>
+
+---
+
+![bg](images/template-content.png)
+
+<img src="images/data-growth.png" style="position: absolute; top: 20%; left: 20%; height: 70%;">
+
+<div class="content-subtitle" style="top:10%;">Explosão de Dados</div>
+
+<div class="footnote">
+  <a href="https://www.statista.com/statistics/871513/worldwide-data-created/" target="_blank" style="color: #4b616b; text-decoration: none;">
+    Volume of data/information created, captured, copied, and consumed ... [Statista, 2024]
+  </a>
+</div>
+
+---
+
+
+![bg](images/template-content.png)
+
+<img src="images/data-usage.png" style="position: absolute; top: 40%; width: 90%;">
+
+<div class="content-subtitle" style="top:20%">Explosão de Dados</div>
+<div class="content-subtitle" style="color: #20476f;"><strong><em>Dados por minuto</em></strong></div>
+
+<div class="footnote">
+  <a href="https://financesonline.com/how-much-data-is-created-every-day/" target="_blank" style="color: #4b616b; text-decoration: none;">
+    53 Important Statistics About How Much Data Is Created Every Day in 2024 [Finances Online, 2024]
+  </a>
+</div>
+
+---
+
+![bg](images/template-content.png)
+
+<img src="images/einstein-godel.png" style="position: absolute; top: 30%; right: 1%; height: 50%;">
+
+<div class="content-title">Palavras vs. Números</div>
+
+<div class="content-paragraph" style="max-width: 40%;">
+    <p>Redes neurais lidam com números, não com palavras.</p>
+    <p>Desejamos uma representação que seja</p>
+    <p><strong><em>útil = semântica + aritmética</em></strong></p>
+</div>
+
+<div class="footnote">
+  <a href="https://www.asimovinstitute.org/neural-network-zoo/" target="_blank" style="color: #4b616b; text-decoration: none;">
+        Über formal unentscheidbare Sätze der Principia Mathematica und verwandter .. [Kurt Gödel, 1931]
+  </a>
 </div>
 
 ---
@@ -429,7 +536,7 @@ style: |
 
 <img src="images/neural-nets.png" style="position: absolute; top: 18%; left: 10%; height: 70%;">
 
-<div class="content-title right" style="right:10%">Redes Neurais</div>
+<div class="content-title right" style="right:18%">Redes Neurais</div>
 
 <div class="content-paragraph tiny right">
     <p>Existem diferentes arquiteturas (forma e tamanho) de redes neurais.</p>
@@ -461,52 +568,11 @@ style: |
 
 ![bg](images/template-content.png)
 
-<img src="images/transformers.png" style="position: absolute; top: 10%; left: 5%; height: 80%;">
+<img src="images/word-embedding.png" style="position: absolute; top: 20%; left: 5%; height: 70%;">s
 
-<img class="shadow" src="images/top-articles.png" style="position: absolute; bottom: 12%; right: 5%; width: 50%;">
+<img src="images/embedding-prices.png" style="position: absolute; top: 18%; right: 4%; height: 72%;">
 
-<div class="content-title right" style="right:5%; top:18%">Attention is all you need</div>
-<div class="content-paragraph small right" style="top:30%;">
-  - Rede neural que aprende a atenção<br>
-  - Massivamente paralela
-</div>
-
-
-<div class="footnote">
-  <a href="https://arxiv.org/pdf/1706.03762" target="_blank" style="color: #4b616b; text-decoration: none;">
-    Attention is All You Need [Vaswani et al., 2017]
-  </a>
-</div>
-
----
-
-![bg](images/template-content.png)
-
-<img src="images/einstein-godel.png" style="position: absolute; top: 30%; right: 1%; height: 50%;">
-
-<div class="content-title">Palavras vs. Números</div>
-
-<div class="content-paragraph" style="max-width: 40%;">
-    <p>Redes neurais lidam com números, não com palavras.</p>
-    <p>Desejamos uma representação que seja</p>
-    <p><strong><em>útil = semântica + aritmética</em></strong></p>
-</div>
-
-<div class="footnote">
-  <a href="https://www.asimovinstitute.org/neural-network-zoo/" target="_blank" style="color: #4b616b; text-decoration: none;">
-        Über formal unentscheidbare Sätze der Principia Mathematica und verwandter .. [Kurt Gödel, 1931]
-  </a>
-</div>
-
----
-
-![bg](images/template-content.png)
-
-<img src="images/word-embedding.png" style="position: absolute; top: 39%; right: 10%; height: 50%;">
-
-<img src="images/embedding-prices.png" style="position: absolute; top: 20%; left: 5%; height: 70%;">s
-
-<div class="content-subtitle right">Word Embeddings</div>
+<div class="content-subtitle right" style="position: absolute; top: 20%; left:15%; height: 50%;">Word Embeddings</div>
 
 <div class="footnote">
   <a href="https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf" target="_blank" style="color: #4b616b; text-decoration: none;">
@@ -521,6 +587,7 @@ style: |
 
 
 <div class="content-subtitle">Word Embeddings</div>
+<div class="content-subtitle" style="color: #20476f; position: absolute; top: 40%; right: 5%;"><strong><em>Tokenização</em></strong></div>
 
 <div class="footnote">
   <a href="https://huggingface.co/spaces/Xenova/the-tokenizer-playground" target="_blank" style="color: #4b616b; text-decoration: none;">
@@ -530,62 +597,29 @@ style: |
 
 ---
 
+![bg](images/template-content.png)
+
+<img src="images/transformers.png" style="position: absolute; top: 10%; left: 5%; height: 80%;">
+
+<img class="shadow" src="images/top-articles.png" style="position: absolute; bottom: 12%; right: 5%; width: 50%;">
+
+<div class="content-title right" style="right:5%; top:18%">Attention is all you need</div>
+<div style="position: absolute; top: 30%; right: 5%; width: 50%; font-size: 1.3em;">
+    <p>- Rede neural com atenção<br>
+- Massivamente paralela
+</div>
+
+<div class="footnote">
+  <a href="https://arxiv.org/pdf/1706.03762" target="_blank" style="color: #4b616b; text-decoration: none;">
+    Attention is All You Need [Vaswani et al., 2017]
+  </a>
+</div>
+
+---
+
 ![bg](images/template-content-small.png)
 
-<img src="images/historical-cost-of-computer-memory-and-storage.svg" style="position: absolute; left:15%; top: 5%; width: 70%;">
-
-<div class="footnote">
-  <a href="https://ourworldindata.org/moores-law" target="_blank" style="color: #4b616b; text-decoration: none;">
-    Moore's Law [Roser et. al, 2023]
-  </a>
-</div>
-
----
-
-![bg](images/template-content-small.png)
-
-<img src="images/supercomputer-power-flops.svg" style="position: absolute; left:15%; top: 5%; width: 70%;">
-
-<div class="footnote">
-  <a href="https://ourworldindata.org/moores-law" target="_blank" style="color: #4b616b; text-decoration: none;">
-    Moore's Law [Roser et. al, 2023]
-  </a>
-</div>
-
----
-
-![bg](images/template-content.png)
-
-<img src="images/data-usage.png" style="position: absolute; top: 40%; width: 90%;">
-
-<div class="content-subtitle" style="top:20%">Explosão de Dados</div>
-<div class="content-subtitle" style="color: #20476f;"><strong><em>Dados por minuto</em></strong></div>
-
-<div class="footnote">
-  <a href="https://financesonline.com/how-much-data-is-created-every-day/" target="_blank" style="color: #4b616b; text-decoration: none;">
-    53 Important Statistics About How Much Data Is Created Every Day in 2024 [Finances Online, 2024]
-  </a>
-</div>
-
----
-
-![bg](images/template-content.png)
-
-<img src="images/data-growth.png" style="position: absolute; top: 20%; left: 20%; height: 70%;">
-
-<div class="content-subtitle" style="top:10%;">Explosão de Dados</div>
-
-<div class="footnote">
-  <a href="https://www.statista.com/statistics/871513/worldwide-data-created/" target="_blank" style="color: #4b616b; text-decoration: none;">
-    Volume of data/information created, captured, copied, and consumed ... [Statista, 2024]
-  </a>
-</div>
-
-
----
-![bg](images/template-content.png)
-
-<img src="images/llm-tree.png" style="position: absolute; top: 15%; right: 5%; height: 75%;">
+<img src="images/llm-tree.png" style="position: absolute; top: 12%; right: 5%; height: 75%;">
 
 <div class="content-subtitle left">Explosão de <br>Modelos de<br>Linguagem</div>
 
@@ -597,15 +631,52 @@ style: |
 
 ---
 
-![bg](images/template-content.png)
+![bg](images/template-content-small.png)
 
-<img src="images/emergent-abilities.png" style="position: absolute; top: 25%; left: 5%; height: 60%;">
-
-<div class="content-subtitle right" style="top:20%" >Habilidades Emergentes</div>
+<img src="images/llm-loss.png" style="position: absolute; top: 8%; left: 10%; height: 80%;">
 
 <div class="footnote">
   <a href="https://arxiv.org/pdf/2206.07682" target="_blank" style="color: #4b616b; text-decoration: none;">
     Emergent Abilities in Large Language Models [Wei et. al, 2022]
+  </a>
+</div>
+
+---
+
+![bg](images/template-content-small.png)
+
+<img src="images/emergent-abilities.png" style="position: absolute; top: 20%; left: 5%; height: 65%;">
+
+<div class="content-subtitle right" style="top:17%" >Habilidades Emergentes</div>
+
+<div class="footnote">
+  <a href="https://arxiv.org/pdf/2206.07682" target="_blank" style="color: #4b616b; text-decoration: none;">
+    Emergent Abilities in Large Language Models [Wei et. al, 2022]
+  </a>
+</div>
+
+---
+
+
+![bg](images/template-content-small.png)
+
+<img src="images/large-scale-models.png" style="position: absolute; top: 5%; left: 10%; width: 80%;">
+
+<div class="footnote" >
+  <a href="https://epochai.org/blog/tracking-large-scale-ai-models" target="_blank" style="color: #4b616b; text-decoration: none;">
+    Tracking Large-Scale AI Models [Raman et al., 2024]
+  </a>
+</div>
+
+---
+
+![bg](images/template-content-small.png)
+
+<img src="images/llm-cost.png" style="position: absolute; top: 20%; left: 5%; width: 90%;">
+
+<div class="footnote" >
+  <a href="https://aiindex.stanford.edu/report/" target="_blank" style="color: #4b616b; text-decoration: none;">
+    Artificial Intelligence Index Report 2024 [Stanford, 2024]
   </a>
 </div>
 
@@ -622,7 +693,6 @@ style: |
 </div>
 
 ---
-
 ![bg](images/template-content.png)
 
 <img class="shadow" src="images/mobile-lens.webp" style="position: absolute; top: 20%; left: 8%; height: 60%;">
