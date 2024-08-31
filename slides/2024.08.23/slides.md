@@ -623,10 +623,6 @@ style: |
 
 ---
 
-portrait of a black woman in Brazil, clear facial features, Cinematic, 35mm lens, f/1.8, soft lighting, global illumination, pro photo RGB
-
----
-
 ![bg](images/template-content.png)
 
 <img class="shadow" src="images/mobile-lens.webp" style="position: absolute; top: 20%; left: 8%; height: 60%;">
