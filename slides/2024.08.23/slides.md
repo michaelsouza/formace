@@ -1,91 +1,7 @@
 ---
 marp: true
 style: |
-    body {
-        font-family: 'Arimo', sans-serif;
-    }
-
-    .cover-title {
-        font-size: 44pt;
-        color: #ffffff;;    
-        position: absolute;
-        top: 50%;
-        right: 6%;
-    }
-    .cover-subtitle {
-        font-size: 28pt;
-        color: #ffffff;
-        position: absolute;
-        top: 62%;
-        right: 6%;
-    }
-    .cover-author {
-        font-size: 28pt;
-        font-style: italic;
-        color: #ffffff;
-        position: absolute;
-        top: 80%;
-        right: 10%;
-    }
-
-    .content-title {
-        font-size: 44pt;
-        color: #38761d;
-        position: absolute;
-        top: 20%;
-        left: 6%;
-    }
-    .content-title.right {
-        right: 7%;
-        left: auto;
-    }
-    .content-subtitle {
-        font-size: 32pt;
-        color: #38761d;
-        position: absolute;
-        top: 30%;
-        left: 6%;
-    }
-    .content-subtitle.right {
-        right: 7%;
-        left: auto;
-    }
-
-    .content-paragraph {
-        font-size: 28pt;
-        color: #000000;
-        position: absolute;
-        top: 35%;
-        left: 6%;
-        max-width: 90%;
-    }
-    .content-paragraph.small {
-        max-width: 60%;
-    }
-    .content-paragraph.tiny {
-        max-width: 40%;
-    }
-    .content-paragraph.teeny {
-        max-width: 30%;
-    }
-    .content-paragraph.right {
-        right: 6%;
-        left: auto;
-    }
-
-    .footnote {
-        font-size: 20pt;
-        font-style: italic;
-        color: #4b616b;
-        position: absolute;
-        bottom: 30px;
-        right: left%;
-    }
-
-    img.shadow {
-        border-radius: 15px;
-        box-shadow: 8px 12px 8px rgba(0, 0, 0, 0.2);
-    }
+    @import url('/home/michael/github/formace/slides/2024.08.23/formace.css')
 ---
 
 ![bg](images/template-cover.png)
@@ -115,9 +31,148 @@ style: |
 
 ---
 
+![bg](images/template-content-small.png)
+
+<image class="shadow" src="images/deepmind-muzero-upscaling.png" style="position: absolute; bottom: 15%; left: 20%; width: 45%;">
+
+<div style="position: absolute; top: 8%; left: 6%; width: 50%;">
+<p>Jan, 2016</p>
+</div>
+
+<div style="position: absolute; top: 27%; left: 6%; width: 50%;">
+<p>Out, 2017</p>
+</div>
+
+<div style="position: absolute; top: 47%; left: 6%; width: 50%;">
+<p>Dec, 2018</p>
+</div>
+
+<div style="position: absolute; top: 66%; left: 6%; width: 50%;">
+<p>Dec, 2020</p>
+</div>
+
+<div class="footnote">
+  <a href="https://deepmind.google/discover/blog/muzero-mastering-go-chess-shogi-and-atari-without-rules/" target="_blank" style="color: #4b616b; text-decoration: none;">
+    MuZero: Mastering Go, chess, shogi and Atari without rules [DeepMind, 2020]
+  </a>  
+</div>
+
+
+---
+
+![bg](images/template-content-small-2.png)
+
+<image class="shadow" src="images/deepmind-muzero-upscaling.png" style="position: absolute; bottom: 15%; left: 20%; width: 45%;">
+
+
+<image src="images/deepmind-alphafold.png" style="position: absolute; top: 8%; right: 10%; width: 16%;">
+<div style="position: absolute; top: 39%; right: 13%;">
+<p>Nov, 2020</p>
+</div>
+
+<div style="position: absolute; top: 8%; left: 6%; width: 50%;">
+<p>Jan, 2016</p>
+</div>
+
+<div style="position: absolute; top: 27%; left: 6%; width: 50%;">
+<p>Out, 2017</p>
+</div>
+
+<div style="position: absolute; top: 47%; left: 6%; width: 50%;">
+<p>Dec, 2018</p>
+</div>
+
+<div style="position: absolute; top: 66%; left: 6%; width: 50%;">
+<p>Dec, 2020</p>
+</div>
+
+<div style="position: absolute; top: 50%; right: 2%; width: 30%;">
+<p>"O que nos levou <strong>meses e anos</strong> para fazer, o AlphaFold conseguiu fazer em um <strong>fim de semana</strong>."<br>
+<em>McGeehan, Univ. Portsmouth</em></p>
+</div>
+
+
+<div class="footnote">
+  <a href="https://www.nature.com/articles/d41586-020-03348-4" target="_blank" style="color: #4b616b; text-decoration: none;">
+    ‘It will change everything’: DeepMind’s AI makes gigantic leap in solving protein ... [Callaway, 2020]
+  </a>  
+</div>
+
+---
+
+<image src="images/template-content-small.png" style="position: absolute; top: 0%; left: 0%; width: 100%;">
+
+<image src="images/woman-v3.png" style="position: absolute; bottom: 10%; left: 15%; width: 80%;">
+
+<div style="position: absolute; top: 55%; left: 17%; width: 50%;">
+<p>Fev, 2022</p>
+</div>
+
+<div style="position: absolute; top: 55%; left: 43%; width: 50%;">
+<p>Abr, 2022</p>
+</div>
+
+<div style="position: absolute; top: 55%; left: 70%; width: 50%;">
+<p>Jul, 2022</p>
+</div>
+
+
+<div class="footnote">
+  <a href="https://deepmind.google/discover/blog/muzero-mastering-go-chess-shogi-and-atari-without-rules/" target="_blank" style="color: #4b616b; text-decoration: none;">
+    MuZero: Mastering Go, chess, shogi and Atari without rules [DeepMind, 2020]
+  </a>  
+</div>
+
+---
+
+<image src="images/template-content-small.png" style="position: absolute; top: 0%; left: 0%; width: 100%;">
+
+<image src="images/woman-v4.png" style="position: absolute; bottom: 10%; left: 15%; width: 80%;">
+
+<div style="position: absolute; top: 55%; left: 17%; width: 50%;">
+<p>Fev, 2022</p>
+</div>
+
+<div style="position: absolute; top: 55%; left: 70%; width: 50%;">
+<p>Jul, 2022</p>
+</div>
+
+<div style="position: absolute; top: 55%; left: 70%; width: 50%;">
+<p>Jul, 2022</p>
+</div>
+
+<div style="position: absolute; bottom: 8%; left: 31%; width: 50%;">
+<p>Nov, 2022</p>
+</div>
+
+---
+
+<image src="images/template-content-small.png" style="position: absolute; top: 0%; left: 0%; width: 100%;">
+
+<image src="images/woman-v5.png" style="position: absolute; bottom: 10%; left: 15%; width: 80%;">
+
+<div style="position: absolute; top: 55%; left: 17%; width: 50%;">
+<p>Fev, 2022</p>
+</div>
+
+<div style="position: absolute; bottom: 8%; left: 31%; width: 50%;">
+<p>Nov, 2022</p>
+</div>
+
+<div style="position: absolute; bottom: 8%; left: 57%; width: 50%;">
+<p>Mai, 2023</p>
+</div>
+
+---
+
+<iframe width="680" height="420" src="images/woman-video-reversed.mp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 30%; left: 25%;"></iframe>
+
+---
+
+
 ![bg](images/template-content.png)
 
-<image class="shadow" src="images/time-to-100M.png" style="position: absolute; bottom: 15%; right: 10%; width: 75%;">
+<image class="shadow" src="images/time-to-100M.jpeg" style="position: absolute; bottom: 15%; right: 10%; width: 60%;">
 
 <div class="content-subtitle" style="position: absolute; top: 15%; right: 20%;">Tempo para alcançar 100 milhões de usuários</div>
 
