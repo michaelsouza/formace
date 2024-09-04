@@ -461,15 +461,9 @@ style: |
 
 ![bg](images/template-content.png)
 
-<img src="images/why-now.png" style="position: absolute; top: 18%; right: 20%; height: 70%;">
+<img src="images/why-now.png" style="position: absolute; top: 35%; left: 10%; width: 80%;">
 
 <div class="content-title right" style="left:10%">Por que agora?</div>
-
-<div class="content-paragraph right" style="top:35%; left: 10%">
-    <p>- Algoritmos aprimorados</p>
-    <p>- Poder de computação acessível</p>    
-    <p>- Grandes quantidades de dados</p>    
-</div>
 
 ---
 
