@@ -673,62 +673,7 @@ style: |
 
 ![bg](images/template-closing.png)
 
----
-
-![bg](images/template-content.png)
-
-<div class="content-title">PNL: Tradução</div>
-
-<img src="images/translation-1.png" style="position: absolute; top: 36%; right: 8%; width: 80%;">
-
-<div class="footnote">
-  <a href="https://splab.sdu.edu.cn/GPT3.pdf" target="_blank" style="color: #4b616b; text-decoration: none;">
-    Language Models are Few-Shot Learners [Brown et al., 2020]
-  </a>
-</div>
-
----
-
-![bg](images/template-content.png)
-
-<img src="images/perceptron.png" style="position: absolute; top: 18%; left: 10%; height: 70%;">
-
-<div class="content-title right" style="right:10%">Redes Neurais</div>
-
-
-<div class="footnote">
-  <a href="https://statquest.org/video-index/#:~:text=Neural%20Networks%2C%20Deep%20Learning%2C%20and%20AI" target="_blank" style="color: #4b616b; text-decoration: none;">
-        Neural Networks, Deep Learning, and AI [StatQuest with Josh Starmer, 2020]
-  </a>
-</div>
-
----
-
-![bg](images/template-content-small.png)
-
-<img class="shadow" src="images/llm-rank.png" style="position: absolute; top: 8%; left: 15%; height: 80%;">
-
-<div class="footnote">
-  <a href="https://lmarena.ai/" target="_blank" style="color: #4b616b; text-decoration: none;">
-    LLM Arena # Leaderboard, 27/08/2024
-  </a>
-</div>
-
-<!-- Os alto custos: poucas empresas -->
-
 --- 
-
-![bg](images/template-content-small.png)
-
-<img src="images/llm-cost.png" style="position: absolute; top: 20%; left: 5%; width: 90%;">
-
-<div class="footnote" style="bottom: 10%;">
-  <a href="https://aiindex.stanford.edu/report/" target="_blank" style="color: #4b616b; text-decoration: none;">
-    Artificial Intelligence Index Report 2024 [Stanford, 2024]
-  </a>
-</div>
-
----
 
 ![bg](images/template-content-small.png)
 
@@ -756,16 +701,26 @@ style: |
 
 ---
 
-![bg](images/template-content.png)
+![bg](images/template-content-small.png)
 
-<img src="images/word-embedding.png" style="position: absolute; top: 20%; left: 5%; height: 70%;">s
+<img src="images/llm-cost.png" style="position: absolute; top: 20%; left: 5%; width: 90%;">
 
-<img src="images/embedding-prices.png" style="position: absolute; top: 18%; right: 4%; height: 72%;">
-
-<div class="content-subtitle right" style="position: absolute; top: 20%; left:15%; height: 50%;">Word Embeddings</div>
-
-<div class="footnote">
-  <a href="https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf" target="_blank" style="color: #4b616b; text-decoration: none;">
-        A Neural Probabilistic Language Model [Bengio et al., 2003]
+<div class="footnote" style="bottom: 10%;">
+  <a href="https://aiindex.stanford.edu/report/" target="_blank" style="color: #4b616b; text-decoration: none;">
+    Artificial Intelligence Index Report 2024 [Stanford, 2024]
   </a>
 </div>
+
+---
+
+![bg](images/template-content-small.png)
+
+<img class="shadow" src="images/llm-rank.png" style="position: absolute; top: 8%; left: 15%; height: 80%;">
+
+<div class="footnote">
+  <a href="https://lmarena.ai/" target="_blank" style="color: #4b616b; text-decoration: none;">
+    LLM Arena # Leaderboard, 27/08/2024
+  </a>
+</div>
+
+<!-- Os alto custos: poucas empresas -->
