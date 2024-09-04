@@ -233,14 +233,12 @@ style: |
 
 ![bg](images/template-content.png)
 
-<div class="content-title">Melhoria vs Transformação</div>
+<div class="content-title" style="position:absolute; left:20%;">Melhoria vs Transformação</div>
 
-<div class="content-paragraph">
-    <ul>
-        <li> A <strong><em>melhoria</em></strong> torna as práticas existentes mais eficientes sem alterá-las fundamentalmente. A tecnologia é uma ferramenta que ajuda a entregar o mesmo conteúdo de forma mais eficaz.</li>
-        <li>A <strong><em>transformação</em></strong> ocorre quando uma nova tecnologia não apenas auxilia nas tarefas existentes, mas também muda a natureza dessas tarefas.
-    </ul>
-</div>
+<image src="images/abaco-calculadora.png" style="position: absolute; bottom: 20%; left: 18%; width: 25%;">
+
+<image src="images/globo-caze.svg" style="position: absolute; bottom: 20%; right: 20%; width: 28%;">
+
 
 <div class="footnote">
   <a href="https://www.jstor.org/stable/1315198" target="_blank" style="color: #4b616b; text-decoration: none;">
@@ -307,7 +305,7 @@ style: |
 
 <div class="footnote" style="position: absolute; bottom: 5%; right: 20px;">
   <a href="https://www.vox.com/new-money/2017/5/4/15547364/baumol-cost-disease-explained" target="_blank" style="color: #4b616b; text-decoration: none;">
-    William Baumol, ... has died. [Lee, 2017]
+    William Baumol, whose ... [Lee, 2017]
   </a>
 </div>
 
@@ -333,7 +331,9 @@ style: |
 <image class="shadow" src="images/khanmigo.png" style="position: absolute; top: 15%; left: 2%; height: 70%;">
 
 <div class="content-paragraph small right" style="top: 20%; right: 5%;">
- "Com o Khanmigo, os educadores podem acessar (um banco de dados de) problemas recomendados para os alunos, analisar tendências da turma e simplificar tarefas administrativas, economizando tempo valioso e permitindo que a atenção seja focada nas necessidades dos alunos."<br>
+
+ "Os educadores podem acessar um ***banco de dados de exercícios*** recomendados para os alunos, ***analisar tendências*** da turma e ***simplificar tarefas*** administrativas."<br>
+
  <strong><em>Sal Khan (CEO Khan Academy)</em></strong></div>
 
 <div class="footnote">
@@ -346,11 +346,11 @@ style: |
 
 ![bg](images/template-content.png)
 
-<image src="images/logo-first-avenue-school.svg" style="position: absolute; top: 30%; right: 5%; height: 50%;;">
+<image src="images/logo-first-avenue-school.svg" style="position: absolute; top: 30%; right: 5%; height: 50%;">
 
-<div class="content-title">First Avenue School</div>
+<div class="content-title" style="position: absolute; top: 18%; right: 5%; height: 50%;">First Avenue School</div>
 
-<div class="content-paragraph small">
+<div class="content-paragraph small" style="position: absolute; top: 29%; right: 5%; height: 50%;">
     <ul>
         <li>1.081 alunos</li>
         <li>98% minorias, 86% econ. desfavorecidos</li>
@@ -404,12 +404,27 @@ style: |
         <li>Sumarização de texto</li>
         <li>Extração de informações</li>
     </ul>
-    A abordagem tradicional é treinar uma rede neural para cada tarefa específica, utilizando grandes quantidades de dados rotulados.
+    A abordagem tradicional é treinar uma rede neural para cada tarefa específica, utilizando grandes bancos de dados.
 </div>
 
 <div class="footnote">
   <a href="https://splab.sdu.edu.cn/GPT3.pdf" target="_blank" style="color: #4b616b; text-decoration: none;">
     Language Models are Few-Shot Learners [Brown et al., 2020]
+  </a>
+</div>
+
+---
+
+![bg](images/template-content.png)
+
+<img src="images/next-word.png" style="position: absolute; top: 18%; left: 10%; height: 70%;">
+
+<div class="content-title right" style="right:15%;top:35%">A próxima <br> palavra é?</div>
+
+
+<div class="footnote">
+  <a href="https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/" target="_blank" style="color: #4b616b; text-decoration: none;">
+        What Is ChatGPT Doing … and Why Does It Work? [Stephen Wolfram, 2023]
   </a>
 </div>
 
@@ -421,20 +436,6 @@ style: |
 
 <img src="images/QA.png" style="position: absolute; top: 18%; right: 0%; height: 70%;">
 
-
-<div class="footnote">
-  <a href="https://splab.sdu.edu.cn/GPT3.pdf" target="_blank" style="color: #4b616b; text-decoration: none;">
-    Language Models are Few-Shot Learners [Brown et al., 2020]
-  </a>
-</div>
-
----
-
-![bg](images/template-content.png)
-
-<div class="content-title">PNL: Tradução</div>
-
-<img src="images/translation-1.png" style="position: absolute; top: 36%; right: 8%; width: 80%;">
 
 <div class="footnote">
   <a href="https://splab.sdu.edu.cn/GPT3.pdf" target="_blank" style="color: #4b616b; text-decoration: none;">
@@ -460,32 +461,26 @@ style: |
 
 ![bg](images/template-content.png)
 
-<img src="images/next-word.png" style="position: absolute; top: 18%; left: 10%; height: 70%;">
+<img src="images/why-now.png" style="position: absolute; top: 18%; right: 20%; height: 70%;">
 
-<div class="content-title right" style="right:15%">A próxima <br> palavra é?</div>
+<div class="content-title right" style="left:10%">Por que agora?</div>
 
-<div class="content-paragraph teeny right" style="top:50%">
-    <p>O problema de determinar a próxima palavra é um problema de trajetória.</p>
-</div>
-
-<div class="footnote">
-  <a href="https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/" target="_blank" style="color: #4b616b; text-decoration: none;">
-        What Is ChatGPT Doing … and Why Does It Work? [Stephen Wolfram, 2023]
-  </a>
+<div class="content-paragraph right" style="top:35%; left: 10%">
+    <p>- Algoritmos aprimorados</p>
+    <p>- Poder de computação acessível</p>    
+    <p>- Grandes quantidades de dados</p>    
 </div>
 
 ---
 
-![bg](images/template-content.png)
+![bg](images/template-content-small.png)
 
-<img src="images/why-now.png" style="position: absolute; top: 15%; left: 12%; height: 70%;">
+<img src="images/supercomputer-power-flops.svg" style="position: absolute; left:15%; top: 5%; width: 70%;">
 
-<div class="content-title right" style="right:20%">Por que agora?</div>
-
-<div class="content-paragraph right" style="top:35%; right: 8%">
-    <p>- Algoritmos aprimorados</p>
-    <p>- Poder de computação acessível</p>    
-    <p>- Grandes quantidades de dados</p>    
+<div class="footnote">
+  <a href="https://ourworldindata.org/moores-law" target="_blank" style="color: #4b616b; text-decoration: none;">
+    Moore's Law [Roser et. al, 2023]
+  </a>
 </div>
 
 ---
@@ -502,13 +497,16 @@ style: |
 
 ---
 
-![bg](images/template-content-small.png)
+![bg](images/template-content.png)
 
-<img src="images/supercomputer-power-flops.svg" style="position: absolute; left:15%; top: 5%; width: 70%;">
+<img src="images/data-usage.png" style="position: absolute; top: 40%; width: 90%;">
+
+<div class="content-subtitle" style="top:20%">Explosão de Dados</div>
+<div class="content-subtitle" style="color: #20476f;"><strong><em>Dados por minuto</em></strong></div>
 
 <div class="footnote">
-  <a href="https://ourworldindata.org/moores-law" target="_blank" style="color: #4b616b; text-decoration: none;">
-    Moore's Law [Roser et. al, 2023]
+  <a href="https://financesonline.com/how-much-data-is-created-every-day/" target="_blank" style="color: #4b616b; text-decoration: none;">
+    53 Important Statistics About How Much Data Is Created Every Day in 2024 [Finances Online, 2024]
   </a>
 </div>
 
@@ -528,17 +526,35 @@ style: |
 
 ---
 
-
 ![bg](images/template-content.png)
 
-<img src="images/data-usage.png" style="position: absolute; top: 40%; width: 90%;">
+<img src="images/neural-nets.png" style="position: absolute; top: 18%; left: 5%; height: 70%;">
 
-<div class="content-subtitle" style="top:20%">Explosão de Dados</div>
-<div class="content-subtitle" style="color: #20476f;"><strong><em>Dados por minuto</em></strong></div>
+<div class="content-title right" style="right:18%">Redes Neurais</div>
+
+<img class="shadow" src="images/top-articles.png" style="position: absolute; bottom: 20%; right: 2%; width: 55%;">
 
 <div class="footnote">
-  <a href="https://financesonline.com/how-much-data-is-created-every-day/" target="_blank" style="color: #4b616b; text-decoration: none;">
-    53 Important Statistics About How Much Data Is Created Every Day in 2024 [Finances Online, 2024]
+  <a href="https://arxiv.org/pdf/1706.03762" target="_blank" style="color: #4b616b; text-decoration: none;">
+    Attention is All You Need [Vaswani et al., 2017]
+  </a>
+</div>
+
+<!-- Abordagem simbólica vs conexionista (1960's) -->
+<!-- Representação simbólica é baseada em regras -->
+<!-- Representação conexionista é baseada em padrões -->
+
+---
+
+![bg](images/template-content-small.png)
+
+<img src="images/llm-tree.png" style="position: absolute; top: 12%; right: 5%; height: 75%;">
+
+<div class="content-subtitle left">Explosão de <br>Modelos de<br>Linguagem</div>
+
+<div class="footnote">
+  <a href="https://arxiv.org/pdf/2304.13712" target="_blank" style="color: #4b616b; text-decoration: none;">
+    Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond [Yang et. al, 2023]
   </a>
 </div>
 
@@ -566,54 +582,41 @@ style: |
 
 ![bg](images/template-content.png)
 
-<img src="images/neural-nets.png" style="position: absolute; top: 18%; left: 10%; height: 70%;">
+<img src="images/word-embedding.png" style="position: absolute; top: 20%; right: 6%; height: 70%;">
 
-<div class="content-title right" style="right:18%">Redes Neurais</div>
+<div class="content-title">Word Embedding</div>
 
-<div class="content-paragraph tiny right">
-    <p>Existem diferentes arquiteturas (forma e tamanho) de redes neurais.</p>
-    <p>Cada uma é mais adequada para um tipo de problema (regressão, classificação, etc).</p>
+<div class="content-paragraph" style="max-width: 40%;">
+    <p>Redes neurais lidam com números, não com palavras.</p>
+    <p>Desejamos uma representação que seja</p>
+    <p><strong><em>útil = semântica + aritmética</em></strong></p>
 </div>
-
-<div class="footnote">
-  <a href="https://www.asimovinstitute.org/neural-network-zoo/" target="_blank" style="color: #4b616b; text-decoration: none;">
-        The Neural Network Zoo [Fjodor Van Veen, 2016]
-  </a>
-</div>
-
-<!-- Abordagem simbólica vs conexionista (1960's) -->
-<!-- Representação simbólica é baseada em regras -->
-<!-- Representação conexionista é baseada em padrões -->
-
----
-
-![bg](images/template-content.png)
-
-<img src="images/perceptron.png" style="position: absolute; top: 18%; left: 10%; height: 70%;">
-
-<div class="content-title right" style="right:10%">Redes Neurais</div>
-
-
-<div class="footnote">
-  <a href="https://statquest.org/video-index/#:~:text=Neural%20Networks%2C%20Deep%20Learning%2C%20and%20AI" target="_blank" style="color: #4b616b; text-decoration: none;">
-        Neural Networks, Deep Learning, and AI [StatQuest with Josh Starmer, 2020]
-  </a>
-</div>
-
----
-
-![bg](images/template-content.png)
-
-<img src="images/word-embedding.png" style="position: absolute; top: 20%; left: 5%; height: 70%;">s
-
-<img src="images/embedding-prices.png" style="position: absolute; top: 18%; right: 4%; height: 72%;">
-
-<div class="content-subtitle right" style="position: absolute; top: 20%; left:15%; height: 50%;">Word Embeddings</div>
 
 <div class="footnote">
   <a href="https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf" target="_blank" style="color: #4b616b; text-decoration: none;">
         A Neural Probabilistic Language Model [Bengio et al., 2003]
   </a>
+</div>
+
+---
+
+![bg](images/template-content.png)
+
+<img src="images/embedding-prices.png" style="position: absolute; top: 20%; right: 6%; height: 70%;">
+
+<div class="content-title">Word Embedding</div>
+
+<div class="content-paragraph" style="max-width: 40%;">
+    <p>Redes neurais lidam com números, não com palavras.</p>
+    <p>Desejamos uma representação que seja</p>
+    <p><strong><em>útil = semântica + aritmética</em></strong></p>
+</div>
+
+<div class="footnote">
+  <a href="https://openai.com/research/" target="_blank" style="color: #4b616b; text-decoration: none;">
+        https://openai.com/research/
+  </a>
+</div>
 
 ---
 
@@ -633,52 +636,6 @@ style: |
 
 ---
 
-![bg](images/template-content.png)
-
-<img src="images/transformers.png" style="position: absolute; top: 10%; left: 5%; height: 80%;">
-
-<img class="shadow" src="images/top-articles.png" style="position: absolute; bottom: 12%; right: 5%; width: 50%;">
-
-<div class="content-title right" style="right:5%; top:18%">Attention is all you need</div>
-<div style="position: absolute; top: 30%; right: 5%; width: 50%; font-size: 1.3em;">
-    <p>- Rede neural com atenção<br>
-- Massivamente paralela
-</div>
-
-<div class="footnote">
-  <a href="https://arxiv.org/pdf/1706.03762" target="_blank" style="color: #4b616b; text-decoration: none;">
-    Attention is All You Need [Vaswani et al., 2017]
-  </a>
-</div>
-
----
-
-![bg](images/template-content-small.png)
-
-<img src="images/llm-tree.png" style="position: absolute; top: 12%; right: 5%; height: 75%;">
-
-<div class="content-subtitle left">Explosão de <br>Modelos de<br>Linguagem</div>
-
-<div class="footnote">
-  <a href="https://arxiv.org/pdf/2304.13712" target="_blank" style="color: #4b616b; text-decoration: none;">
-    Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond [Yang et. al, 2023]
-  </a>
-</div>
-
----
-
-![bg](images/template-content-small.png)
-
-<img src="images/llm-loss.png" style="position: absolute; top: 8%; left: 10%; height: 80%;">
-
-<div class="footnote">
-  <a href="https://arxiv.org/pdf/2206.07682" target="_blank" style="color: #4b616b; text-decoration: none;">
-    Emergent Abilities in Large Language Models [Wei et. al, 2022]
-  </a>
-</div>
-
----
-
 ![bg](images/template-content-small.png)
 
 <img src="images/emergent-abilities.png" style="position: absolute; top: 20%; left: 5%; height: 65%;">
@@ -690,46 +647,6 @@ style: |
     Emergent Abilities in Large Language Models [Wei et. al, 2022]
   </a>
 </div>
-
----
-
-
-![bg](images/template-content-small.png)
-
-<img src="images/large-scale-models.png" style="position: absolute; top: 5%; left: 10%; width: 80%;">
-
-<div class="footnote" >
-  <a href="https://epochai.org/blog/tracking-large-scale-ai-models" target="_blank" style="color: #4b616b; text-decoration: none;">
-    Tracking Large-Scale AI Models [Raman et al., 2024]
-  </a>
-</div>
-
-<!-- FLOP de treinamento é proporcional ao volume de dados e tamanho do modelo -->
----
-
-![bg](images/template-content-small.png)
-
-<img src="images/llm-cost.png" style="position: absolute; top: 20%; left: 5%; width: 90%;">
-
-<div class="footnote" style="bottom: 10%;">
-  <a href="https://aiindex.stanford.edu/report/" target="_blank" style="color: #4b616b; text-decoration: none;">
-    Artificial Intelligence Index Report 2024 [Stanford, 2024]
-  </a>
-</div>
-
----
-
-![bg](images/template-content-small.png)
-
-<img class="shadow" src="images/llm-rank.png" style="position: absolute; top: 8%; left: 15%; height: 80%;">
-
-<div class="footnote">
-  <a href="https://lmarena.ai/" target="_blank" style="color: #4b616b; text-decoration: none;">
-    LLM Arena # Leaderboard, 27/08/2024
-  </a>
-</div>
-
-<!-- Os alto custos: poucas empresas -->
 
 ---
 
@@ -755,3 +672,100 @@ style: |
 ---
 
 ![bg](images/template-closing.png)
+
+---
+
+![bg](images/template-content.png)
+
+<div class="content-title">PNL: Tradução</div>
+
+<img src="images/translation-1.png" style="position: absolute; top: 36%; right: 8%; width: 80%;">
+
+<div class="footnote">
+  <a href="https://splab.sdu.edu.cn/GPT3.pdf" target="_blank" style="color: #4b616b; text-decoration: none;">
+    Language Models are Few-Shot Learners [Brown et al., 2020]
+  </a>
+</div>
+
+---
+
+![bg](images/template-content.png)
+
+<img src="images/perceptron.png" style="position: absolute; top: 18%; left: 10%; height: 70%;">
+
+<div class="content-title right" style="right:10%">Redes Neurais</div>
+
+
+<div class="footnote">
+  <a href="https://statquest.org/video-index/#:~:text=Neural%20Networks%2C%20Deep%20Learning%2C%20and%20AI" target="_blank" style="color: #4b616b; text-decoration: none;">
+        Neural Networks, Deep Learning, and AI [StatQuest with Josh Starmer, 2020]
+  </a>
+</div>
+
+---
+
+![bg](images/template-content-small.png)
+
+<img class="shadow" src="images/llm-rank.png" style="position: absolute; top: 8%; left: 15%; height: 80%;">
+
+<div class="footnote">
+  <a href="https://lmarena.ai/" target="_blank" style="color: #4b616b; text-decoration: none;">
+    LLM Arena # Leaderboard, 27/08/2024
+  </a>
+</div>
+
+<!-- Os alto custos: poucas empresas -->
+
+--- 
+
+![bg](images/template-content-small.png)
+
+<img src="images/llm-cost.png" style="position: absolute; top: 20%; left: 5%; width: 90%;">
+
+<div class="footnote" style="bottom: 10%;">
+  <a href="https://aiindex.stanford.edu/report/" target="_blank" style="color: #4b616b; text-decoration: none;">
+    Artificial Intelligence Index Report 2024 [Stanford, 2024]
+  </a>
+</div>
+
+---
+
+![bg](images/template-content-small.png)
+
+<img src="images/llm-loss.png" style="position: absolute; top: 8%; left: 10%; height: 80%;">
+
+<div class="footnote">
+  <a href="https://arxiv.org/pdf/2206.07682" target="_blank" style="color: #4b616b; text-decoration: none;">
+    Emergent Abilities in Large Language Models [Wei et. al, 2022]
+  </a>
+</div>
+
+---
+
+![bg](images/template-content-small.png)
+
+<img src="images/large-scale-models.png" style="position: absolute; top: 5%; left: 10%; width: 80%;">
+
+<div class="footnote" >
+  <a href="https://epochai.org/blog/tracking-large-scale-ai-models" target="_blank" style="color: #4b616b; text-decoration: none;">
+    Tracking Large-Scale AI Models [Raman et al., 2024]
+  </a>
+</div>
+
+<!-- FLOP de treinamento é proporcional ao volume de dados e tamanho do modelo -->
+
+---
+
+![bg](images/template-content.png)
+
+<img src="images/word-embedding.png" style="position: absolute; top: 20%; left: 5%; height: 70%;">s
+
+<img src="images/embedding-prices.png" style="position: absolute; top: 18%; right: 4%; height: 72%;">
+
+<div class="content-subtitle right" style="position: absolute; top: 20%; left:15%; height: 50%;">Word Embeddings</div>
+
+<div class="footnote">
+  <a href="https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf" target="_blank" style="color: #4b616b; text-decoration: none;">
+        A Neural Probabilistic Language Model [Bengio et al., 2003]
+  </a>
+</div>
