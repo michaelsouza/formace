@@ -1,0 +1,170 @@
+Howmuch logo
+Visualizations
+Remodeling
+Loans
+Insurance
+Shop
+Our Services
+About us
+Do you want to republish our data visualizations and/or articles?
+
+Contact us
+Howmuch logo
+Visualizations
+The Economy
+Business
+Investments
+Debt
+Jobs
+Monetary Policy
+Cryptocurrencies
+Personal Finance
+Trade
+Wealth
+Taxes
+Social Issues
+Real Estate
+Remodeling
+Indoor
+Outdoor
+Professional Services
+Loans
+Personal Loans
+Home Loans
+Bad Credit Loans
+Student Loans
+Small Business Loans
+Auto Loans
+Insurance
+Life Insurance
+Health Insurance
+Disability Insurance
+Renters Insurance
+Homeowner Insurance
+Business Insurance
+Auto Insurance
+Shop
+Howmuch logo mini
+Price Changes Over the Last 20 Years Prove the Economy is Rigged
+Visualizations
+Price Changes Over the Last 20 Years Prove the Economy is Rigged
+Price Changes Over the Last 20 Years Prove the Economy is Rigged
+The economy is rigged.
+
+That’s the message behind our recent analysis of price changes over the last 20 years. We looked at everything from mass market consumer items, like TVs, cell phones and apparel, to critical life-altering purchases, like healthcare, college tuition and textbooks. It turns out that the most important things in life keep getting more and more expensive, while the things that don’t really matter keep getting cheaper.
+
+
+
+Use this visualization
+Proper credit for inspiring our visualization belongs to Mark J. Perry at the American Enterprise Institute. His original visualization was so good that we couldn’t resist using the same basic idea for our purposes. The underlying data come from the U.S. Bureau of Labor Statistics, which keeps detailed records of consumer goods as well as average hourly earnings. Of course, these figures take into consideration inflation.
+
+We start by using prices in 1998 as a benchmark, plotting the relative percentage increase or decrease for each category over the last 20 years. The result is a snapshot of the American economy, providing several key insights about both the standard of living for most Americans and the unique challenges companies face to remain relevant.
+
+Let’s start with the things that have become more affordable in the last 20 years, consumer goods. It costs substantially less money to purchase a TV now than it ever has in the past, dropping some 97% since 1998. We see similar eye-popping declines for other mass consumer products like toys, computers and cellphones. It’s worth pointing out that all these things are not just cheaper, but they’re also objectively better. Almost all TVS are now high definition flat screens with Internet connections. Cell phones are like miniature computers in your pocket, and toys are designed for cognitive development. They’re cheaper and a lot better.
+
+There are several items that haven’t really changed that much in terms of price. Apparel, household furnishings and new cars all cost about as much as they did in 1998. Similar to TVs, cell phones and computers, cars have also gotten substantially better with the creation of new technologies. Adaptive cruise control automatically adjusts to the flow of traffic, and lane assist keeps the vehicle where it’s safe. Even backup cameras are relatively new in automotive history, and yet they come standard in most new cars.
+
+And then there are things that have exploded in relative price, especially compared to average hourly earnings. Healthcare is now over 225% more expensive, and getting a higher education is not far behind at 183%. Both categories have more than doubled the growth rate of average hourly earnings, making them less affordable for middle class families. College textbooks alone now run students almost 150% more than they used to.
+
+Why have these prices increased so much, whereas consumer goods have become cheaper and cheaper? It’s debatable to what extent healthcare and educational outcomes have improved over the last 20 years. And there are lots of possible reasons why they cost a lot more than they used to. Government regulations, market conditions, monopolies and professional certifications all play a role. There’s also a strong bias in both fields for reputation and pedigree. Will we ever get to a place where all the technology in the world could replace the judgement of a Harvard-educated doctor? Maybe, but in the meantime, consumers are paying top dollar for the things that determine major life outcomes while demanding lower prices for other products.
+
+About the article
+Published: 28 January 2019
+Authors
+Raul
+
+Editor
+
+Resources
+Republication
+Comments
+Subscribe to our newsletter
+E-mail me the best content from Howmuch.net
+
+Your e-mail address
+Visualizations
+Lords of War: Visualizing the Global Arms Trade Network
+Lords of War: Visualizing the Global Arms Trade Network
+Selling weapons to other countries is big business. It’s so lucrative that President Trump famously refused to cancel an American arms deal with Saudi Arabia in the aftermath of Jamal Khashoggi’s murder. So just how big is the international market?
+
+
+
+Use this visualization
+The Stockholm International Peace Research Institute (SIPRI) and the World Bank keep detailed figures on international arms imports and exports, counting every major conventional weapon from missiles to radar systems and military airplanes. We used the latest available complete data, sometimes going as far back as 2016 for some countries, to create a unique set of maps. The larger a country appears, the more arms it imports or exports. Plus, we added a color-coded outer ring corresponding to the level of each country’s contribution.
+
+Let’s start by looking at who’s selling the most weapons. The U.S. stands out as the world leader by a long shot, shipping well over $12B in arms to other countries. To be sure, a significant amount of American arms exports go to Israel, but there are several other large customers across the Middle East as well, like Saudi Arabia, Egypt and the UAE.
+
+To understand the extent to which Americans dominate the international market for weapons, just look around the world. The second most prolific exporter, Russia, only sees half as much business ($6.15B). France ($2.16B) is the only other country topping $2 billion, with the rest of the major players from Western Europe contributing less. Israel for its part is actually a net exporter of arms ($1.26B exports vs. $528M imports). And China, despite being the second largest economy in the world, only exports some $1.13B. There is only one country from Africa on our map (South Africa at $74M), and only a couple from Latin America. This means that developed countries in the West are, by far, the biggest exporters of arms around the world.
+
+
+
+Use this visualization
+But let’s see who’s buying all those weapons. The world map of importers looks radically different from the exporters. For starters, Saudi Arabia and India are major players, soaking up some $4.11B and $3.36B of the market, respectively. Each country is surrounded by a smattering of other countries making big purchases too.
+
+There are lots of reasons why some countries are major importers. There’s efficiency in a global market where a country can simply purchase weapons as opposed to manufacturing everything at home. Why would Australia, for example, try to build military aircraft when it can simply buy them from the U.S.? There are also lots of regional conflicts pressuring countries to spend top dollar for the latest military technologies, like India and Pakistan. And then there are a number of disreputable countries led by strongmen or oligarchies. They have their own agenda, and clearly they’re willing to spend big bucks for the best weapons.
+
+
+ 
+
+About the article
+Published: 27 January 2019
+Authors
+Raul
+
+Editor
+
+Resources
+Republication
+Comments
+Join the discussion!
+Read Full Story
+Visualizations
+Mapped: Foreign Direct Investment by Country
+Mapped: Foreign Direct Investment by Country
+President Trump loves railing against the trade deficit even as it reaches a 10-year high. But here’s the thing. Countries with large surpluses have to do something with all that cash, and there’s only so many domestic investments available.
+
+Instead, much of that money finds its way into foreign direct investment (FDI). And it turns out, the U.S. receives over $275B, by far the most FDI of any country in the world. That’s according to a new set of numbers released by the United Nations for 2017, the latest year for which complete figures are available.
+
+Mapped: Foreign Direct Investment by Country
+
+Foreign direct investments (FDIs) occur when one company or person buys an ownership stake in another company located in a different country. We created a color-coded map corresponding to the level of FDI inflows each country received in 2017, excluding countries with less than $1B. We then adjusted the size to also indicate the level of investment, creating a unique world geography of capital flows.
+
+Foreign Direct Investment Inflows by Country - Top 10 Countries 
+1. United States: $275.4B
+
+2. China: $136.3B
+
+3. Hong Kong: $104.3B
+
+4. Brazil: $62.7B
+
+5. Singapore: $62B
+
+6. Netherlands: $58B
+
+7. France: $49.8B
+
+8. Australia: $46.4B
+
+9. Switzerland: $41B
+
+10. India: $39.9B
+
+To start, the U.S. ($275.4B) and China ($136.3B) are clearly the two biggest beneficiaries. We technically separated Hong Kong ($104.3B) from China in the list above, and even still China passed the $100B mark. Things get more interesting the further down the list you look. Brazil is the only country in Latin America to crack $50B, and it’s followed closely by the small city-state of Singapore ($62B). And then there are a smattering of Western European countries pulling in tens of billions of FDI, led by the Netherlands ($58B). India rounds out the top 10 ($39.9B) as a developing country with billions of people but less than $40B in FDI.
+
+The most interesting thing about our map is how it distinguishes between rich, developing and poor countries. We excluded for visualization purposes any country seeing less than $1B in FDI, and as a result almost the entire continent of Africa disappeared. Eastern Europe and the Middle East both likewise seem tiny as they’re sandwiched between rich nations in the West and developing ones in the East. Most of South and Central America similarly pale in comparison to Brazil and North America. Special mention should be made of the British Virgin Islands ($38.4B), where clearly lots of overseas capital is looking for opportunities in a warmer climate.
+
+It’s worth pointing out that Trump’s policies have decreased FDI to the U.S. even if he’s recently changed his mind about severe restrictions. There are legitimate national security concerns for allowing companies with close ties to foreign governments to invest in companies with key U.S. military technologies. That being said, FDI is generally seen as a great thing because it’s directly responsible for some 12 million U.S. jobs. Who wouldn’t want billions of dollars of foreign capital spent on job creation?
+
+About the article
+Published: 22 January 2019
+Authors
+Irena
+
+Editor
+
+Resources
+Republication
+Comments
+Join the discussion!
+Read Full Story

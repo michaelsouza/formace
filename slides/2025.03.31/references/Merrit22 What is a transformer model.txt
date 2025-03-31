@@ -1,0 +1,400 @@
+Skip to content
+Search for:
+Home
+AI
+Data Center
+Driving
+Gaming
+Pro Graphics
+Robotics
+Healthcares
+Startups
+AI Podcast
+NVIDIA Life
+What Is a Transformer Model?
+A transformer model is a neural network that learns context and thus meaning by tracking relationships in sequential data like the words in this sentence.
+March 25, 2022 by Rick Merritt
+ Share
+  
+If you want to ride the next big wave in AI, grab a transformer.
+
+They’re not the shape-shifting toy robots on TV or the trash-can-sized tubs on telephone poles.
+
+So, What’s a Transformer Model?
+A transformer model is a neural network that learns context and thus meaning by tracking relationships in sequential data like the words in this sentence.
+
+Transformer models apply an evolving set of mathematical techniques, called attention or self-attention, to detect subtle ways even distant data elements in a series influence and depend on each other.
+
+First described in a 2017 paper from Google, transformers are among the newest and one of the most powerful classes of models invented to date. They’re driving a wave of advances in machine learning some have dubbed transformer AI.
+
+Stanford researchers called transformers “foundation models” in an August 2021 paper because they see them driving a paradigm shift in AI. The “sheer scale and scope of foundation models over the last few years have stretched our imagination of what is possible,” they wrote.
+
+What Can Transformer Models Do?
+Transformers are translating text and speech in near real-time, opening meetings and classrooms to diverse and hearing-impaired attendees.
+
+They’re helping researchers understand the chains of genes in DNA and amino acids in proteins in ways that can speed drug design.
+
+Transformers models dubbed foundation models in Stanford paper
+Transformers, sometimes called foundation models, are already being used with many data sources for a host of applications.
+Transformers can detect trends and anomalies to prevent fraud, streamline manufacturing, make online recommendations or improve healthcare.
+
+People use transformers every time they search on Google or Microsoft Bing.
+
+The Virtuous Cycle of Transformer AI
+Any application using sequential text, image or video data is a candidate for transformer models.
+
+That enables these models to ride a virtuous cycle in transformer AI. Created with large datasets, transformers make accurate predictions that drive their wider use, generating more data that can be used to create even better models.
+
+Transformer models herald era of transformer AI, says Stanford paper
+Stanford researchers say transformers mark the next stage of AI’s development, what some call the era of transformer AI.
+“Transformers made self-supervised learning possible, and AI jumped to warp speed,” said NVIDIA founder and CEO Jensen Huang in his keynote address this week at GTC.
+
+Transformers Replace CNNs, RNNs
+Transformers are in many cases replacing convolutional and recurrent neural networks (CNNs and RNNs), the most popular types of deep learning models just five years ago.
+
+Indeed, 70 percent of arXiv papers on AI posted in the last two years mention transformers. That’s a radical shift from a 2017 IEEE study that reported RNNs and CNNs were the most popular models for pattern recognition.
+
+No Labels, More Performance
+Before transformers arrived, users had to train neural networks with large, labeled datasets that were costly and time-consuming to produce. By finding patterns between elements mathematically, transformers eliminate that need, making available the trillions of images and petabytes of text data on the web and in corporate databases.
+
+In addition, the math that transformers use lends itself to parallel processing, so these models can run fast.
+
+Transformers now dominate popular performance leaderboards like SuperGLUE, a benchmark developed in 2019 for language-processing systems.
+
+How Transformers Pay Attention
+Like most neural networks, transformer models are basically large encoder/decoder blocks that process data.
+
+Small but strategic additions to these blocks (shown in the diagram below) make transformers uniquely powerful.
+
+Example of a transformer model and self-attention
+A look under the hood from a presentation by Aidan Gomez, one of eight co-authors of the 2017 paper that defined transformers.
+Transformers use positional encoders to tag data elements coming in and out of the network. Attention units follow these tags, calculating a kind of algebraic map of how each element relates to the others.
+
+Attention queries are typically executed in parallel by calculating a matrix of equations in what’s called multi-headed attention.
+
+With these tools, computers can see the same patterns humans see.
+
+Self-Attention Finds Meaning
+For example, in the sentence:
+
+She poured water from the pitcher to the cup until it was full. 
+
+We know “it” refers to the cup, while in the sentence:
+
+She poured water from the pitcher to the cup until it was empty.
+
+We know “it” refers to the pitcher.
+
+“Meaning is a result of relationships between things, and self-attention is a general way of learning relationships,” said Ashish Vaswani, a former senior staff research scientist at Google Brain who led work on the seminal 2017 paper.
+
+“Machine translation was a good vehicle to validate self-attention because you needed short- and long-distance relationships among words,” said Vaswani.
+
+“Now we see self-attention is a powerful, flexible tool for learning,” he added.
+
+How Transformers Got Their Name
+Attention is so key to transformers the Google researchers almost used the term as the name for their 2017 model. Almost.
+
+“Attention Net didn’t sound very exciting,” said Vaswani, who started working with neural nets in 2011.
+
+.Jakob Uszkoreit, a senior software engineer on the team, came up with the name Transformer.
+
+“I argued we were transforming representations, but that was just playing semantics,” Vaswani said.
+
+The Birth of Transformers
+In the paper for the 2017 NeurIPS conference, the Google team described their transformer and the accuracy records it set for machine translation.
+
+Thanks to a basket of techniques, they trained their model in just 3.5 days on eight NVIDIA GPUs, a small fraction of the time and cost of training prior models. They trained it on datasets with up to a billion pairs of words.
+
+“It was an intense three-month sprint to the paper submission date,” recalled Aidan Gomez, a Google intern in 2017 who contributed to the work.
+
+“The night we were submitting, Ashish and I pulled an all-nighter at Google,” he said. “I caught a couple hours sleep in one of the small conference rooms, and I woke up just in time for the submission when someone coming in early to work opened the door and hit my head.”
+
+It was a wakeup call in more ways than one.
+
+“Ashish told me that night he was convinced this was going to be a huge deal, something game changing. I wasn’t convinced, I thought it would be a modest gain on a benchmark, but it turned out he was very right,” said Gomez, now CEO of startup Cohere that’s providing a language processing service based on transformers.
+
+A Moment for Machine Learning
+Vaswani recalls the excitement of seeing the results surpass similar work published by a Facebook team using CNNs.
+
+“I could see this would likely be an important moment in machine learning,” he said.
+
+A year later, another Google team tried processing text sequences both forward and backward with a transformer. That helped capture more relationships among words, improving the model’s ability to understand the meaning of a sentence.
+
+Their Bidirectional Encoder Representations from Transformers (BERT) model set 11 new records and became part of the algorithm behind Google search.
+
+Within weeks, researchers around the world were adapting BERT for use cases across many languages and industries “because text is one of the most common data types companies have,” said Anders Arpteg, a 20-year veteran of machine learning research.
+
+Putting Transformers to Work
+Soon transformer models were being adapted for science and healthcare.
+
+DeepMind, in London, advanced the understanding of proteins, the building blocks of life, using a transformer called AlphaFold2, described in a recent Nature article. It processed amino acid chains like text strings to set a new watermark for describing how proteins fold, work that could speed drug discovery.
+
+AstraZeneca and NVIDIA developed MegaMolBART, a transformer tailored for drug discovery. It’s a version of the pharmaceutical company’s MolBART transformer, trained on a large, unlabeled database of chemical compounds using the NVIDIA Megatron framework for building large-scale transformer models.
+
+Reading Molecules, Medical Records
+“Just as AI language models can learn the relationships between words in a sentence, our aim is that neural networks trained on molecular structure data will be able to learn the relationships between atoms in real-world molecules,” said Ola Engkvist, head of molecular AI, discovery sciences and R&D at AstraZeneca, when the work was announced last year.
+
+
+
+Separately, the University of Florida’s academic health center collaborated with NVIDIA researchers to create GatorTron. The transformer model aims to extract insights from massive volumes of clinical data to accelerate medical research.
+
+Transformers Grow Up
+Along the way, researchers found larger transformers performed better.
+
+For example, researchers from the Rostlab at the Technical University of Munich, which helped pioneer work at the intersection of AI and biology, used natural-language processing to understand proteins. In 18 months, they graduated from using RNNs with 90 million parameters to transformer models with 567 million parameters.
+
+Transformer model applied to protein analysis
+Rostlab researchers show language models trained without labeled samples picking up the signal of a protein sequence.
+The OpenAI lab showed bigger is better with its Generative Pretrained Transformer (GPT). The latest version, GPT-3, has 175 billion parameters, up from 1.5 billion for GPT-2.
+
+With the extra heft, GPT-3 can respond to a user’s query even on tasks it was not specifically trained to handle. It’s already being used by companies including Cisco, IBM and Salesforce.
+
+Tale of a Mega Transformer
+NVIDIA and Microsoft hit a high watermark in November, announcing the Megatron-Turing Natural Language Generation model (MT-NLG) with 530 billion parameters. It debuted along with a new framework, NVIDIA NeMo Megatron, that aims to let any business create its own billion- or trillion-parameter transformers to power custom chatbots, personal assistants and other AI applications that understand language.
+
+MT-NLG had its public debut as the brain for TJ, the Toy Jensen avatar that gave part of the keynote at NVIDIA’s November 2021 GTC.
+
+“When we saw TJ answer questions — the power of our work demonstrated by our CEO — that was exciting,” said Mostofa Patwary, who led the NVIDIA team that trained the model.
+
+The Toy Jensen avatar aka TJ uses a transformer for a brain.
+“Megatron helps me answer all those tough questions Jensen throws at me,” TJ said at GTC 2022.
+Creating such models is not for the faint of heart. MT-NLG was trained using hundreds of billions of data elements, a process that required thousands of GPUs running for weeks.
+
+“Training large transformer models is expensive and time-consuming, so if you’re not successful the first or second time, projects might be canceled,” said Patwary.
+
+Trillion-Parameter Transformers
+Today, many AI engineers are working on trillion-parameter transformers and applications for them.
+
+“We’re constantly exploring how these big models can deliver better applications. We also investigate in what aspects they fail, so we can build even better and bigger ones,” Patwary said.
+
+To provide the computing muscle those models need, our latest accelerator — the NVIDIA H100 Tensor Core GPU — packs a Transformer Engine and supports a new FP8 format. That speeds training while preserving accuracy.
+
+With those and other advances, “transformer model training can be reduced from weeks to days” said Huang at GTC.
+
+MoE Means More for Transformers
+
+Last year, Google researchers described the Switch Transformer, one of the first trillion-parameter models. It uses AI sparsity, a complex mixture-of experts (MoE) architecture and other advances to drive performance gains in language processing and up to 7x increases in pre-training speed.
+
+Google's Switch Transformer model
+The encoder for the Switch Transformer, the first model to have up to a trillion parameters.
+For its part, Microsoft Azure worked with NVIDIA to implement an MoE transformer for its Translator service.
+
+Tackling Transformers’ Challenges
+Now some researchers aim to develop simpler transformers with fewer parameters that deliver performance similar to the largest models.
+
+“I see promise in retrieval-based models that I’m super excited about because they could bend the curve,” said Gomez, of Cohere, noting the Retro model from DeepMind as an example.
+
+Retrieval-based models learn by submitting queries to a database. “It’s cool because you can be choosy about what you put in that knowledge base,” he said.
+
+Transformer model size over time
+In the race for higher performance, transformer models have grown larger.
+The ultimate goal is to “make these models learn like humans do from context in the real world with very little data,” said Vaswani, now co-founder of a stealth AI startup.
+
+He imagines future models that do more computation upfront so they need less data and sport better ways users can give them feedback.
+
+“Our goal is to build models that will help people in their everyday lives,” he said of his new venture.
+
+Safe, Responsible Models
+Other researchers are studying ways to eliminate bias or toxicity if models amplify wrong or harmful language. For example, Stanford created the Center for Research on Foundation Models to explore these issues.
+
+“These are important problems that need to be solved for safe deployment of models,” said Shrimai Prabhumoye, a research scientist at NVIDIA who’s among many across the industry working in the area.
+
+“Today, most models look for certain words or phrases, but in real life these issues may come out subtly, so we have to consider the whole context,” added Prabhumoye.
+
+“That’s a primary concern for Cohere, too,” said Gomez. “No one is going to use these models if they hurt people, so it’s table stakes to make the safest and most responsible models.”
+
+Beyond the Horizon
+Vaswani imagines a future where self-learning, attention-powered transformers approach the holy grail of AI.
+
+“We have a chance of achieving some of the goals people talked about when they coined the term ‘general artificial intelligence’ and I find that north star very inspiring,” he said.
+
+“We are in a time where simple methods like neural networks are giving us an explosion of new capabilities.”
+
+NVIDIA H100 GPU speeds inference and training on transformers
+Transformer training and inference will get significantly accelerated with the NVIDIA H100 GPU.
+Learn more about transformers on the NVIDIA Technical Blog.
+
+Categories: Deep Learning | Explainer
+Tags: Artificial Intelligence | Customer Stories | GPU | Machine Learning | NVIDIA Research | Parallel Computing | Science
+
+Subscribe Widget
+All NVIDIA News
+NVIDIA to Present Innovations at Hot Chips That Boost Data Center Performance and Energy Efficiency
+
+Straight Out of Gamescom and Into Xbox PC Games, GeForce NOW Newly Supports Automatic Xbox Sign-In
+
+Lightweight Champ: NVIDIA Releases Small Language Model With State-of-the-Art Accuracy
+
+SLMming Down Latency: How NVIDIA’s First On-Device Small Language Model Makes Digital Humans More Lifelike
+
+How Snowflake Is Unlocking the Value of Data With Large Language Models
+
+Stay up to date on the latest enterprise news.
+
+Professional Email Address
+Subscribe Now
+Unsubscribe at any time. Read the NVIDIA Privacy Policy.
+
+Post navigation
+Take Control This GFN Thursday With New Stratus+ Controller From SteelSeries
+Plus, drop into a new season of ‘Fortnite,’ explore a unique quest for members in ‘MapleStory’ and stream six new titles this week.
+March 24, 2022 by GeForce NOW Community
+ Share
+  
+GeForce NOW gives you the power to game almost anywhere, at GeForce quality. And with the latest controller from SteelSeries, members can stay in control of the action on Android and Chromebook devices.
+
+This GFN Thursday takes a look at the SteelSeries Stratus+, now part of the GeForce NOW Recommended program.
+
+And it wouldn’t be Thursday without new games, so get ready for six additions to the GeForce NOW library, including the latest season of Fortnite and a special in-game event for MapleStory that’s exclusive for GeForce NOW members.
+
+The Power to Play, in the Palm of Your Hand
+GeForce NOW transforms mobile phones into powerful gaming computers capable of streaming PC games anywhere. The best mobile gaming sessions are backed by recommended controllers, including the new Stratus+ by SteelSeries.
+
+SteelSeries Stratus+
+Take control of how you play with the new SteelSeries Stratus+.
+The Stratus+ wireless controller combines precision with comfort, delivering a full console experience on a mobile phone and giving a competitive edge to Android and Chromebook gamers. Gamers can simply connect to any Android mobile or Chromebook device with Bluetooth Low Energy and play with a rechargeable battery that lasts up to 90 hours. Or they can wire in to any Windows PC via USB connection.
+
+The controller works great with GeForce NOW’s RTX 3080 membership. Playing on select 120Hz Android phones, members can stream their favorite PC games at up to 120 frames per second.
+
+SteelSeries’ line of controllers is part of the full lineup of GeForce NOW Recommended products, including optimized routers that are perfect in-home networking upgrades.
+
+Get Your Game On
+This week brings the start of Fortnite Chapter 3 Season 2, “Resistance.” Building has been wiped out. To help maintain cover, you now have an overshield and new tactics like sprinting, mantling and more. Even board an armored battle bus to be a powerful force or attach a cow catcher to your vehicle for extra ramming power. Join the Seven in the final battle against the IO to free the Zero Point. Don’t forget to grab the Chapter 3 Season 2 Battle Pass to unlock characters like Tsuki 2.0, the familiar foe Gunnar and The Origin.
+
+MapleStory on GeForce NOW
+Adventure and rewards await on this exclusive GeForce NOW quest.
+Nexon, maker of popular global MMORPG MapleStory, is launching a special in-game quest — exclusive to GeForce NOW members. Level 30+ Maplers who log in using GeForce NOW will receive a GeForce NOW quest that grants players a Lil Boo Pet, and a GeForce NOW Event Box that can be opened 24 hours after acquiring. But hurry – this quest is only available March 24-April 28.
+
+And since GFN Thursday means more games every week. This week includes open-ended, zombie-infested sandbox Project Zomboid. Play alone or survive with friends thanks to multiplayer support across persistent servers.
+
+Project Zomboid on GeForce NOW
+Finally, a game that proves you can learn valuable skills by watching TV. Won’t your mother be proud?
+Feeling zombie shy? That’s okay, there’s always something new to play on GeForce NOW. Here’s the complete list of six titles coming this week:
+
+Highrise City (New release on Steam)
+Fury Unleashed (Steam)
+Power to the People (Steam and Epic Games Store)
+Project Zomboid (Steam)
+Rugby 22 (Steam)
+STORY OF SEASONS: Pioneers of Olive Town (Steam)
+Finally, the release timing for Lumote: The Mastermote Chronicles has shifted and will join GeForce NOW at a later date.
+
+With the cloud making new ways to play PC games across your devices possible, we’ve got a question that may get you a bit nostalgic this GFN Thursday. Let us know your answer on Twitter:
+
+
+Categories: Gaming
+Tags: Cloud Gaming | GeForce NOW
+Load Comments
+Subscribe Widget
+All NVIDIA News
+NVIDIA to Present Innovations at Hot Chips That Boost Data Center Performance and Energy Efficiency
+
+Straight Out of Gamescom and Into Xbox PC Games, GeForce NOW Newly Supports Automatic Xbox Sign-In
+
+Lightweight Champ: NVIDIA Releases Small Language Model With State-of-the-Art Accuracy
+
+SLMming Down Latency: How NVIDIA’s First On-Device Small Language Model Makes Digital Humans More Lifelike
+
+How Snowflake Is Unlocking the Value of Data With Large Language Models
+
+Post navigation
+Orchestrated to Perfection: NVIDIA Data Center Grooves to Tune of Millionfold Speedups
+March 24, 2022 by Michael Kagan
+ Share
+  
+The hum of a bustling data center is music to an AI developer’s ears — and NVIDIA data centers have found a rhythm of their own, grooving to the swing classic “Sing, Sing, Sing” in this week’s GTC keynote address.
+
+The lighthearted video, created with the NVIDIA Omniverse platform, features Louis Prima’s iconic music track, re-recorded at the legendary Abbey Road Studios. Its drumming, dancing data center isn’t just for kicks — it celebrates the ability of NVIDIA data center solutions to orchestrate unprecedented AI performance.
+
+
+
+Cutting-edge AI is tackling the world’s biggest challenges — but to do so, it needs the most advanced data centers, with thousands of hardware and software components working in perfect harmony.
+
+At GTC, NVIDIA is showcasing the latest data center technologies to accelerate next-generation applications in business, research and art. To keep up with the growing demand for computing these applications, optimization is needed across the entire computing stack, as well as innovation at the level of distributed algorithms, software and systems.
+
+Performance growth at the bottom of the computing stack, based on Moore’s law, can’t keep pace with the requirements of these applications. Moore’s law, which predicted a 2x growth in computing performance every other year, has yielded to Huang’s law — that GPUs will double AI performance every year.
+
+Advancements across the entire computing stack, from silicon to application-level software, have contributed to an unprecedented million-x speedup in accelerated computing in the last 20 years. It’s not just about faster GPUs, DPUs and CPUs. Computing based on neural network models, advanced network technologies and distributed software algorithms all contribute to the data center innovation needed to keep pace with the demands of ever-growing AI models.
+
+
+
+Through these innovations, the data center has become the single unit of computing. Thousands of servers work seamlessly as one, with NVIDIA Magnum IO software and new breakthroughs like the NVIDIA NVLink Switch System unveiled at GTC combining to link advanced AI infrastructure.
+
+Orchestrated to perfection, an NVIDIA-powered data center will support innovations that are yet to be even imagined.
+
+Developing a Digital Twin of the Data Center
+The GTC video performance showcases a digital twin NVIDIA is building of its own data centers — a virtual representation of the physical supercomputer that NVIDIA designers and engineers can use to test new configurations or software builds before releasing updates to the physical system.
+
+In addition to enabling continuous integration and delivery, a digital twin of a data center can be used to optimize operational efficiency, including response time, resource utilization and energy consumption.
+
+Digital twins can help teams predict equipment failures, proactively replace weak links and test improvement measures before applying them. They can even provide a testing ground to fine-tune data centers for specific enterprise users or applications.
+
+Applicable across industries and applications, digital twin technology is already being used as a powerful tool for warehouse optimizations, climate simulations, smart factory development and renewable energy planning.
+
+In NVIDIA’s data center digital twin, viewers can spot flagship technologies including NVIDIA DGX SuperPOD and EGX-based NVIDIA-Certified systems with BlueField DPUs and InfiniBand switches. The performance also features a special appearance by Toy Jensen, an application built with Omniverse Avatar.
+
+The visualization was developed in NVIDIA Omniverse, a platform for real-time world simulation and 3D design collaboration. Omniverse connects science and art by bringing together creators, developers, engineers and AIs across industries to work together in a shared virtual world.
+
+
+
+Omniverse digital twins are true to reality, accurately simulating the physics and materials of their real counterparts. The realism allows Omniverse users to test out processes, interactions and new technologies in the digital space before moving to the physical world.
+
+Every factory, neighborhood and city could one day be replicated as a digital twin. With connected sensors powered by edge computing, these sandbox environments can be continuously updated to reflect changes to the corresponding real-world assets or systems. They can help develop next-generation autonomous robots, smart cities and 5G networks.
+
+A digital twin can learn the laws of physics, chemistry, biology and more, storing this information in its computing brain.
+
+Just as kingdoms centuries ago sent explorers to travel the world and return with new knowledge, edge sensors and robots are today’s explorers for digital twin environments. Each sensor brings new observations back to the digital twin’s brain, which consolidates the data, learns from it and updates the autonomous systems within the virtual environment. This collective learning will tune digital twins to perfection.
+
+Hear about the latest innovations in AI, accelerated computing and virtual world simulation at GTC, streaming online through March 24. Register free and learn more about data center acceleration in the session replay, “How to Achieve Millionfold Speedups in Data Center Performance.” Watch NVIDIA founder and CEO Jensen Huang’s keynote address below:
+
+
+
+Categories: Data Center | Hardware
+Tags: Artificial Intelligence | GTC 2022 | Omniverse | Simulation and Design
+Load Comments
+Subscribe Widget
+All NVIDIA News
+NVIDIA to Present Innovations at Hot Chips That Boost Data Center Performance and Energy Efficiency
+
+Straight Out of Gamescom and Into Xbox PC Games, GeForce NOW Newly Supports Automatic Xbox Sign-In
+
+Lightweight Champ: NVIDIA Releases Small Language Model With State-of-the-Art Accuracy
+
+SLMming Down Latency: How NVIDIA’s First On-Device Small Language Model Makes Digital Humans More Lifelike
+
+How Snowflake Is Unlocking the Value of Data With Large Language Models
+
+Post navigation
+Corporate Information
+About NVIDIA
+Corporate Overview
+Technologies
+NVIDIA Research
+Investors
+Social Responsibility
+NVIDIA Foundation
+Get Involved
+Forums
+Careers
+Developer Home
+Join the Developer Program
+NVIDIA Partner Network
+NVIDIA Inception
+Resources for Venture Capitalists
+Venture Capital (NVentures)
+Technical Training
+Training for IT Professionals
+Professional Services for Data Science
+News & Events
+Newsroom
+NVIDIA Blog
+NVIDIA Technical Blog
+Webinars
+Stay Informed
+Events Calendar
+NVIDIA GTC
+NVIDIA On-Demand
+Explore our regional blogs and other social networks
+Privacy Policy Manage My Privacy Legal Accessibility Product Security Contact
+Copyright © 2024 NVIDIA Corporation
+USA - United States

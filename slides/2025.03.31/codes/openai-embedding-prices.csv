@@ -1,0 +1,7 @@
+Model,Price Value,Price Unit,Launch Date,Nickname
+text-similarity-davinci-001,200.00,1M tokens,06-2020,davinci-001
+text-similarity-curie-001,20.00,1M tokens,,curie-001
+text-similarity-babbage-001,5.00,1M tokens,,babbage-001
+text-similarity-ada-001,4.00,1M tokens,,ada-001
+text-embedding-ada-002,0.0001,1M tokens,12-2022,ada-002
+text-embedding-3-small,0.00002,1M tokens,01-2024,3-small

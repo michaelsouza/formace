@@ -1,0 +1,85 @@
+body {
+    font-family: 'Arimo', sans-serif;
+}
+
+.cover-title {
+    font-size: 44pt;
+    color: #ffffff;;    
+    position: absolute;
+    top: 50%;
+    right: 6%;
+}
+.cover-subtitle {
+    font-size: 28pt;
+    color: #ffffff;
+    position: absolute;
+    top: 62%;
+    right: 6%;
+}
+.cover-author {
+    font-size: 28pt;
+    font-style: italic;
+    color: #ffffff;
+    position: absolute;
+    top: 80%;
+    right: 10%;
+}
+
+.content-title {
+    font-size: 44pt;
+    color: #38761d;
+    position: absolute;
+    top: 20%;
+    left: 6%;
+}
+.content-title.right {
+    right: 7%;
+    left: auto;
+}
+.content-subtitle {
+    font-size: 32pt;
+    color: #38761d;
+    position: absolute;
+    top: 30%;
+    left: 6%;
+}
+.content-subtitle.right {
+    right: 7%;
+    left: auto;
+}
+
+.content-paragraph {
+    font-size: 28pt;
+    color: #000000;
+    position: absolute;
+    top: 35%;
+    left: 6%;
+    max-width: 90%;
+}
+.content-paragraph.small {
+    max-width: 60%;
+}
+.content-paragraph.tiny {
+    max-width: 40%;
+}
+.content-paragraph.teeny {
+    max-width: 30%;
+}
+.content-paragraph.right {
+    right: 6%;
+    left: auto;
+}
+
+.footnote {
+    font-size: 20pt;
+    font-style: italic;
+    color: #4b616b;
+    position: absolute;
+    bottom: 30px;
+    right: left%;
+}
+
+img.shadow {
+    border-radius: 15px;
+    box-shadow: 8px 12px 8px rgba(0, 0, 0, 0.2);
+}

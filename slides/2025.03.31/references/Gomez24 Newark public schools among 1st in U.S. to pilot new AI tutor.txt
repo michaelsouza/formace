@@ -1,0 +1,133 @@
+default-output-block.skip-main
+
+Mosaic logo
+Community
+News
+Food & Culture
+Social Justice
+Sports
+Commentary
+About Us
+News
+
+
+
+
+
+Newark public schools among 1st in U.S. to pilot new AI tutor
+By Jessie Gómez | Chalkbeat
+May 14, 2024 at 10:01 am EDT
+Two girls working at a computer
+Newark public schools among 1st in U.S. to pilot new AI tutor Jessie Gómez is a reporter for Chalkbeat Newark, covering public education in the city. The AI program, Khanmigo is still in its pilot phase but is designed to guide students as they progress through lessons and ask questions like a human tutor would. (David Liam Kyle)
+Editor’s note: This story was shared as part of a content-sharing agreement between Mosaic.NJ.com and Chalkbeat. You can follow them on Facebook and Twitter (or X).
+
+Newark Public Schools wants to see a districtwide expansion of an artificial intelligence tutoring tool after it was piloted at First Avenue School last year, as the district searches for ways to help students catch up from pandemic learning loss.
+
+The district was among the first in the country to test the chatbot called Khanmigo, an AI program developed by online learning giant Khan Academy that is designed for classrooms and acts as a tutor for students and an assistant for teachers.
+
+The Newark Board of Education in March approved a data-sharing agreement with Khan Academy to study whether the tool was effective “in the North Ward schools,” according to the agreement. In an email to Chalkbeat Newark on Thursday from Superintendent Roger León, district officials confirmed they are looking to expand the use of the program districtwide.
+
+Khanmigo is still in its pilot phase but is designed to guide students as they progress through lessons and ask questions like a human tutor would, according to Khan Academy spokesperson Barb Kunz. It can also assist teachers with tasks such as planning lessons, tailoring instruction, creating texts and images, and providing recommendations on what students could work on next.
+
+Khanmigo was launched last year in grades 5-8 and used in core content areas, which are typically math, reading, writing, and science, according to the district.
+
+
+The district is monitoring its implementation but has not said how Khanmigo is used in classrooms, what students and teachers think about the tool, or why there is a need for it in Newark. During March’s school board meeting, León said the agreement with Khan Academy is “all too very important work and everyone across the country is trying to figure out how to move the program.”
+
+“The strategy here is not to do it in any one school only,” León added. “This is a program that we are piloting and then it will flourish.”
+
+So far, there has been little research on whether such tools are effective in helping students regain lost ground. Experts also say districts should be clear about their goals in using AI tools like Khanmigo and learn from teachers and students as they use new platforms.
+
+How does Khanmigo work?
+Khanmigo, powered by ChatGPT technology, includes features meant to help students work through math and science problems, analyze text, chat with historical figures, navigate college admissions, and revise essays, among other features. It is also designed to help teachers create instructions for assignments and review student performance.
+
+As part of the district’s data-sharing agreement with Khan Academy, researchers will analyze state testing data to determine how using Khan Academy is associated with student growth and achievement. The initial pilot testing for the tool ended in June 2023 and was offered at no cost to the district, Newark Public Schools officials said last week.
+
+Newark is one of 53 school districts across the country to pilot the tool, which is accessed through Khan Academy’s website rather than a separate app. First Avenue Students can access Khanmigo to get hints for solving challenging math problems or explain concepts they find confusing across all subjects. The chatbot can also guide students in exploring topics they’re interested in or exploring new ones.
+
+But one thing it can’t do is give students the answers, according to Khan Academy’s website.
+
+This isn’t the first time Newark has considered a new classroom tool to improve student learning. Over 40 educational platforms are being used by the district, according to a January committee report. An infusion of COVID relief dollars into Newark schools became the district’s “saving grace” in expanding summer programs and tutoring initiatives in 2023, León said last year.
+
+
+After the pandemic, city, district, and community leaders sounded the alarm about the need to provide more support to improve student achievement. Student performance in math and English language arts on spring state test scores in 2023 went up by 2 percentage points from the prior year, highlighting slow academic recovery after the pandemic. That required more than 10,000 public school students to attend summer school in 2023 – double the number from the year before. District leaders also developed plans in science and English language arts that focus on new approaches to learning to boost student achievement.
+
+Next school year’s budget includes a $6.8 million increase in tutoring efforts previously covered by American Rescue Plan funds, but few details have been shared about the district’s plan to potentially pay for the Khanmigo program districtwide. The price for school districts to use Khanmigo starts at $35 per student for the school year. There are also discounts for schools and districts with a high number of students who qualify for free and reduced lunch.
+
+Other districts that piloted the tool are also looking to expand the program by using grants or other funding sources. Palm Beach County Schools in Florida is receiving up to $2 million from the Stiles-Nicholson Foundation for the use of the platform through June 2025.
+
+Last Friday, philanthropist and Microsoft founder Bill Gates visited First Avenue School to see the implementation of Khanmigo in classrooms. In 2020, the Bill & Melinda Gates Foundation committed $12 million to Khan Academy to support the continued development of the organization in grades 3-12 math. (The Bill & Melinda Gates Foundation is a Chalkbeat funder. Learn more about our funding here.)
+
+Experts say more research is needed to evaluate AI in education
+Computer programs powered by artificial intelligence have been around in recent decades but applications such as Khanmigo, which learn from students engaging with it, are new and growing quickly as technology develops, said Amanda Neitzel, a director at ProvenTutoring, an initiative at John Hopkins University that helps schools choose evidence-based tutoring programs.
+
+Kunz says Khanmigo is “still very much in the early days of AI” and Khan Academy is helping K-12 school district partners “understand, explore, and use these tools.”
+
+
+So far, there have been errors in how Khanmigo solves basic math problems, which Kunz said they have since fixed. Teachers and students across pilot districts have also said the tool occasionally offers too much help and was too available, especially when students were taking assessments such as quizzes and course challenges, Kunz said.
+
+Khan Academy changed the prompts to better align with a “socratic tutor,” a tutoring approach that involves a dialogue between teacher and students, and made Khanmigo unavailable when students complete assessments on the site, Kunz added.
+
+Teachers are also requesting more coaching on the differences between Khanmigo’s “student mode,” which guides students through lessons and problems, and “teacher mode,” which is designed to help educators plan lessons and collaborate on solutions.
+
+But Neitzel warns that research on the efficacy of tutoring programs such as Khanmigo in the classroom is needed as they gain popularity among school districts.
+
+“It is important to do those research studies that look broadly across certain student groups because schools have limited resources,” said Neitzel, who is also an assistant research scientist at John Hopkins Center for Research and Reform in Education. “They need to choose something that has the best shot of helping the most students.”
+
+Feedback important to evaluate, improve new platforms
+The effectiveness of AI tools such as Khanmigo depends on their design and implementation and other factors such as teacher feedback, training, and understanding the social emotional effect on students play a role in improving technology, said Alan Reid, a researcher at John Hopkins Center for Research and Reform in Education.
+
+Reid studies educational technology products and reviews their efficacy in classroom instruction. He says AI products could yield positive learning outcomes by providing personalized attention and learning to students, but does not believe tools such as Khanmigo could replace human instruction completely. He sees educators using new platforms to supplement classroom work but wouldn’t be surprised if a teacher’s role shifts as technology evolves.
+
+
+“That’s just by the nature of having so many digital programs and products and apps and screens and things that don’t lean on the instructor’s expertise as much as just the instructor becoming more of a guide and a facilitator through these products,” Reid added.
+
+Kunz, the spokesperson for Khan Academy, said “in an ideal world every student would have a human tutor” but the hope is that Khanmigo will be able to provide an AI alternative “that can be scaled so that anyone, anywhere can get help when they need it.”
+
+School districts need to think about different tutoring models and intervention strategies that provide critical support for mastering foundational skills, said Jennifer Krajewski, director of Outreach and Engagement at ProvenTutoring.
+
+Khanmigo could be a useful tool to provide on-demand help with homework, Krajewski said, but could also supplement more robust intervention strategies during the school day depending on what students need and what the school district wants to target.
+
+“I think school districts need to understand that distinction,” Krajewski said, “and start with what are their most pressing needs.”
+
+Jessie Gómez is a reporter for Chalkbeat Newark, covering public education in the city. Contact Jessie at jgomez@chalkbeat.org.
+
+Welcome to Mosaic. Follow us on Instagram at @MosaicNJcom and on Facebook at MosaicNJcom and on YouTube at @MosaicNJcom.
+
+Celebrating Diversity.
+Amplifying Voices.
+Get the Mosaic newsletter, every week in your inbox.
+Enter your email address
+ 
+
+
+Community Updates
+1
+
+Celebrate National Waffle Day Saturday at this new NJ dessert shop
+2
+
+Newark’s 24 Hours of Peace kicks off Friday at 5 PM, headlined by Mýa
+3
+
+The 28 highest-paying jobs in N.J. that don’t require a college degree
+
+News for a diverse community — from NJ.com
+
+NJ Advance Media
+
+Woodbridge Corporate Plaza
+
+485 Route 1 S
+
+Bldg. E, Suite 300
+
+Iselin, NJ 08830-3009
+
+ 
+Use of and/or registration on any portion of this site constitutes acceptance of our User Agreement (updated 4/4/2023), Privacy Policy and Cookie Statement, and Your Privacy Choices and Rights (updated 7/1/2023).
+
+© 2024 Advance Local Media LLC. All rights reserved (About Us). The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Advance Local.
+
+
+
