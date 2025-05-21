@@ -340,6 +340,31 @@ style: |
 
 ![bg](images/template-content-small-unimb.png)
 
+<img class="shadow" src="images/cortella-curadoria.jpg" style="position: absolute; top: 15%; left: 8%; height: 60%;">
+
+<div class="content-title right" style="right:20%;" >A Era da Curadoria</div>
+
+<div class="content-paragraph right" style="top:35%;">
+- Sobrecarga de Informação<br>
+- Informação vs Conhecimento<br>
+- Educador/Instituições como curadores<br>
+- Contexto e Experiência<br>
+</div>
+
+<div class="footnote" style="bottom: 10%;">
+  <a href="https://a.co/d/gsK9A0m" target="_blank" style="color: #4b616b; text-decoration: none;">
+    A Era da Curadoria - O que Importa é Saber o que Importa! [Cortella & Dimenstein, 2023]
+  </a>
+</div>
+
+<!-- Curadoria vem de Curar (cuidar de algo), procurador -->
+<!-- Critério de seleção -->
+<!-- Não é restringir o acesso, mas descobrir o melhor uso -->
+
+---
+
+![bg](images/template-content-small-unimb.png)
+
 <img src="images/img-conics.png" style="position: absolute; top: 20%; left: 5%; height: 400px;">
 
 <div class="content-title right">Educação: Conteúdo e Forma</div>
@@ -405,7 +430,7 @@ style: |
 
 <div class="content-subtitle" style="top:20%">IA na Educação (GPT4-o, Sal & Imran Khan)</div>
 
-<iframe width="680" height="420" src="https://www.youtube.com/embed/IvXZCocyU_M?si=r_0XSRTSjhSk6Lp0&amp;start=31" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen cc_load_policy="1" cc_lang_pref="pt" style="position: absolute; top: 30%; left: 28%; border: 2px solid black;"></iframe>
+<iframe width="680" height="420" src="images/youtube-khan.mp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen cc_load_policy="1" cc_lang_pref="pt" style="position: absolute; top: 30%; left: 28%; border: 2px solid black;"></iframe>
 
 <div class="footnote">
   <a href="https://www.youtube.com/watch?v=IvXZCocyU_M" target="_blank" style="color: #4b616b; text-decoration: none;">
@@ -482,44 +507,7 @@ style: |
 
 ![bg](images/template-content-small-unimb.png)
 
-<img src="images/llm-reviewer.png" style="position: absolute; top: 10%; right: 8%; height: 80%;">
-
-<div class="footnote" style="bottom: 5%;">  
-  <a href="https://ai.nejm.org/doi/full/10.1056/AIoa2400196" target="_blank" style="color: #4b616b; text-decoration: none;">
-    Can Large Language Models Provide Useful Feedback on Research Papers? ... [Liang et. al, 2024]
-  </a>
-</div>
-
----
-
-![bg](images/template-content-small-unimb.png)
-
-<img class="shadow" src="images/cortella-curadoria.jpg" style="position: absolute; top: 15%; left: 8%; height: 60%;">
-
-<div class="content-title right" style="right:20%;" >A Era da Curadoria</div>
-
-<div class="content-paragraph right" style="top:35%;">
-- Sobrecarga de Informação<br>
-- Informação vs Conhecimento<br>
-- Educador/Instituições como curadores<br>
-- Contexto e Experiência<br>
-</div>
-
-<div class="footnote" style="bottom: 10%;">
-  <a href="https://a.co/d/gsK9A0m" target="_blank" style="color: #4b616b; text-decoration: none;">
-    A Era da Curadoria - O que Importa é Saber o que Importa! [Cortella & Dimenstein, 2023]
-  </a>
-</div>
-
-<!-- Curadoria vem de Curar (cuidar de algo), procurador -->
-<!-- Critério de seleção -->
-<!-- Não é restringir o acesso, mas descobrir o melhor uso -->
-
----
-
-![bg](images/template-content-small-unimb.png)
-
-<img src="images/anthropic-use-cases.png" style="position: absolute; top: 4%; left: 5%; height: 85%;">
+<img src="images/anthropic-use-cases.png" style="position: absolute; top: 20%; left: 5%; height: 52%;">
 
 <div class="footnote" style="bottom: 5%;">  
   <a href="https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude" target="_blank" style="color: #4b616b; text-decoration: none;">
@@ -531,7 +519,7 @@ style: |
 
 ![bg](images/template-content-small-unimb.png)
 
-<img src="images/anthropic-students-area.png" style="position: absolute; top: 2%; left: 5%; height: 85%;">
+<img src="images/anthropic-students-area.png" style="position: absolute; top: 10%; left: 3%; height: 68%;">
 
 <div class="footnote" style="bottom: 5%;">  
   <a href="https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude" target="_blank" style="color: #4b616b; text-decoration: none;">
@@ -555,26 +543,13 @@ style: |
 
 ![bg](images/template-content-small-unimb.png)
 
-<img src="images/anthropic-percentage-conversations.png" style="position: absolute; top: 2%; left: 5%; height: 85%;">
+<img src="images/llm-reviewer.png" style="position: absolute; top: 10%; right: 8%; height: 80%;">
 
 <div class="footnote" style="bottom: 5%;">  
-  <a href="https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude" target="_blank" style="color: #4b616b; text-decoration: none;">
-    Anthropic Education Report: How University Students Use Claude [Anthropic, 2025]
+  <a href="https://ai.nejm.org/doi/full/10.1056/AIoa2400196" target="_blank" style="color: #4b616b; text-decoration: none;">
+    Can Large Language Models Provide Useful Feedback on Research Papers? ... [Liang et. al, 2024]
   </a>
 </div>
-
----
-
-![bg](images/template-content-small-unimb.png)
-
-<img src="images/anthropic-bloom.webp" style="position: absolute; top: 2%; left: 5%; height: 85%;">
-
-<div class="footnote" style="bottom: 5%;">  
-  <a href="https://www.anthropic.com/news/anthropic-education-report-how-university-students-use-claude" target="_blank" style="color: #4b616b; text-decoration: none;">
-    Anthropic Education Report: How University Students Use Claude [Anthropic, 2025]
-  </a>
-</div>
-
 
 ---
 
@@ -596,7 +571,6 @@ style: |
     ChatGPT: A Case Study on Copyright Challenges for Generative Artificial Intelligence ... [Lucchi, 2023]
   </a>
 </div>
-
 
 ---
 
