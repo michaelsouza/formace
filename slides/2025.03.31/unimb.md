@@ -219,7 +219,7 @@ style: |
 <iframe width="680" height="420" src="images/woman-video-reversed.mp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 25%; left: 25%; border: 2px solid black;"></iframe>
 
 <div class="footnote">
-  <a href="https://www.midjourney.com/home" target="_blank" style="color: #4b616b; text-decoration: none;">
+  <a href="https://youtu.be/ja9--u3x3Ws" target="_blank" style="color: #4b616b; text-decoration: none;">
     [Runway, 2024]
   </a>
 </div>
@@ -233,7 +233,7 @@ style: |
 <iframe width="680" height="420" src="images/woman-veo3.mp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 25%; left: 25%; border: 2px solid black;"></iframe>
 
 <div class="footnote">
-  <a href="https://www.midjourney.com/home" target="_blank" style="color: #4b616b; text-decoration: none;">
+  <a href="https://youtu.be/sexy2CrtPLw" target="_blank" style="color: #4b616b; text-decoration: none;">
     [Veo 3, 2025]
   </a>
 </div>
@@ -630,12 +630,12 @@ style: |
 
 ![bg](images/template-content-small-unimb.png)
 
-<img src="images/emergent-properties-palm.gif" style="position: absolute; top: 15%; left: 5%; height: 65%;">
+<video src="images/emergent-properties-palm.mp4" style="position: absolute; top: 20%; left: 2%; height: 60%;" autoplay loop muted></video>
 
 <div class="content-subtitle left" style="top:7%" >Habilidades Emergentes</div>
 
 <div class="footnote">
-  <a href="https://cthiriet.com/blog/scaling-laws" target="_blank" style="color: #4b616b; text-decoration: none;">
+  <a href="https://youtu.be/EynQ8NTGZbk" target="_blank" style="color: #4b616b; text-decoration: none;">
     Scaling Laws and Emergent Properties [Clément Thiriet, 2023]
   </a>
 </div>
