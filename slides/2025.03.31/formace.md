@@ -228,6 +228,20 @@ style: |
 
 <image src="images/template-content-small.png" style="position: absolute; top: 0%; left: 0%; width: 100%;">
 
+<div class="content-title">2025</div>
+
+<iframe width="680" height="420" src="images/woman-veo3.mp4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="position: absolute; top: 25%; left: 25%; border: 2px solid black;"></iframe>
+
+<div class="footnote">
+  <a href="https://www.midjourney.com/home" target="_blank" style="color: #4b616b; text-decoration: none;">
+    [Veo 3, 2025]
+  </a>
+</div>
+
+---
+
+<image src="images/template-content-small.png" style="position: absolute; top: 0%; left: 0%; width: 100%;">
+
 <image src="images/hm-model.png" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 80%; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
 
 <div class="footnote">
@@ -328,7 +342,7 @@ style: |
 
 <div class="footnote">
     <a href="https://www.cambridgemaths.org/blogs/degenerates/" target="_blank" style="color: #4b616b; text-decoration: none;">
-        Conic Sections Rebellion - Degenerates [Lucy Rycroft-Smith, 2018]
+        Conic Sections Rebellion - Degenerates (Cambridge) [Lucy Rycroft-Smith, 2018]
     </a>
 </div>
 
